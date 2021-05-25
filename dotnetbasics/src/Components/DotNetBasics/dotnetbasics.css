@@ -1,5 +1,7 @@
 .DNBStyle p{
     margin-left:10px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
 }
 .DNBStyle li{
     font-size: 20px;

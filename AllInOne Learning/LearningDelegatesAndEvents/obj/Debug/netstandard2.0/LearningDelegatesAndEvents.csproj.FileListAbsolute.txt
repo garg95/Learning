@@ -1,0 +1,9 @@
+D:\.Net Learning\AllInOne Learning\LearningDelegatesAndEvents\bin\Debug\netstandard2.0\LearningDelegatesAndEvents.deps.json
+D:\.Net Learning\AllInOne Learning\LearningDelegatesAndEvents\bin\Debug\netstandard2.0\LearningDelegatesAndEvents.dll
+D:\.Net Learning\AllInOne Learning\LearningDelegatesAndEvents\bin\Debug\netstandard2.0\LearningDelegatesAndEvents.pdb
+D:\.Net Learning\AllInOne Learning\LearningDelegatesAndEvents\obj\Debug\netstandard2.0\LearningDelegatesAndEvents.csprojAssemblyReference.cache
+D:\.Net Learning\AllInOne Learning\LearningDelegatesAndEvents\obj\Debug\netstandard2.0\LearningDelegatesAndEvents.csproj.CoreCompileInputs.cache
+D:\.Net Learning\AllInOne Learning\LearningDelegatesAndEvents\obj\Debug\netstandard2.0\LearningDelegatesAndEvents.AssemblyInfoInputs.cache
+D:\.Net Learning\AllInOne Learning\LearningDelegatesAndEvents\obj\Debug\netstandard2.0\LearningDelegatesAndEvents.AssemblyInfo.cs
+D:\.Net Learning\AllInOne Learning\LearningDelegatesAndEvents\obj\Debug\netstandard2.0\LearningDelegatesAndEvents.dll
+D:\.Net Learning\AllInOne Learning\LearningDelegatesAndEvents\obj\Debug\netstandard2.0\LearningDelegatesAndEvents.pdb
