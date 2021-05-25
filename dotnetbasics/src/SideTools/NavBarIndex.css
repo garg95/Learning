@@ -25,10 +25,11 @@
     color:white;
     box-sizing: border-box;
     display:block;
+    font-size: 20px;
 }
 
-/* .NavBarIndex li a.active,
+.NavBarIndex li a.active,
 .NavBarIndex li a:active,
 .NavBarIndex li a:hover{
     color:#40a4cb;
-} */
+}
