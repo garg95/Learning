@@ -16,12 +16,21 @@ export default function SqlInterview(){
             </ul>
             <hr/>
             <h3>What is candidate key?</h3>
+            <ul>
+                <li>A candidate key is all those tuples(columns) that define can define other non essential tuples</li>
+                <li>Out of multiple candidate keys, we pick primary key</li>
+                <li>Primary key can be candidate key while candidate key cannot be primary key</li>
+            </ul>
             <hr/>
             <h3>What is clustered index?</h3>
             <hr/>
             <h3>What is non clustered index?</h3>
             <hr />
-            
+            <h3>Can we use aggregate function without using group by?</h3>
+            <p> Yes . Eg: select count(*) from table_name . Here count is aggregate function </p>
+            <hr />
+            <h3>Can we return table from a funciton?</h3>
+            <p>Yes </p>
         </div>
     )
 }
