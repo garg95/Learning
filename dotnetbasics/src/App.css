@@ -1,0 +1,19 @@
+.Interview p{
+    font-size: 20px;
+}
+
+.Interview div{
+    width:90%;
+    margin:auto;
+}
+
+.Interview img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Interview li{
+    margin-top:10px;
+    font-size: 20px;
+}
