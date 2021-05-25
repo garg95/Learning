@@ -21,9 +21,12 @@ namespace Basic_Sorting_and_Searching_Algo
             //BubbleSort();
 
             //Complexity O(log n)
-            BinarySearchMain();
+            //BinarySearchMain();
 
-
+            #region questions
+            int minValue=Questions.SortedRotatedArray();
+            Console.WriteLine(minValue);
+            #endregion
 
         }
         public static void InsertionSort()
