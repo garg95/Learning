@@ -4,15 +4,24 @@
     background-color:wheat;
     width:15%;
 }
-
+.SideBarIndex ul{
+    padding:0;
+}
 .SideBarIndex li{
     list-style: none;
-
+    font-size:25px;
+    margin-left: 10px;
 }
 
 .SideBarIndex li a{
     text-decoration: none;
-    color:darkblue;
+    color:darkslategray;
     font-weight: bolder;
-    font-size:25px;
+    
+    width:100%;
+}
+.SideBarIndex li a.active,
+.SideBarIndex li a:active,
+.SideBarIndex li a:hover{
+    color:olive;
 }

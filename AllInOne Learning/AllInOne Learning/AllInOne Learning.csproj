@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AsyncVsThread\AsyncVsThread.csproj" />
     <ProjectReference Include="..\LearningDelegatesAndEvents\LearningDelegatesAndEvents.csproj" />
     <ProjectReference Include="..\SingletonVsStatic\SingletonVsStatic.csproj" />
   </ItemGroup>

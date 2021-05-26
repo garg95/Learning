@@ -4721,6 +4721,16 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
+      "AsyncVsThread/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/AsyncVsThread.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AsyncVsThread.dll": {}
+        }
+      },
       "LearningDelegatesAndEvents/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -12983,6 +12993,11 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
+    "AsyncVsThread/1.0.0": {
+      "type": "project",
+      "path": "../AsyncVsThread/AsyncVsThread.csproj",
+      "msbuildProject": "../AsyncVsThread/AsyncVsThread.csproj"
+    },
     "LearningDelegatesAndEvents/1.0.0": {
       "type": "project",
       "path": "../LearningDelegatesAndEvents/LearningDelegatesAndEvents.csproj",
@@ -12996,6 +13011,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "AsyncVsThread >= 1.0.0",
       "LearningDelegatesAndEvents >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
@@ -13036,6 +13052,9 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
+            "D:\\.Net Learning\\AllInOne Learning\\AsyncVsThread\\AsyncVsThread.csproj": {
+              "projectPath": "D:\\.Net Learning\\AllInOne Learning\\AsyncVsThread\\AsyncVsThread.csproj"
+            },
             "D:\\.Net Learning\\AllInOne Learning\\LearningDelegatesAndEvents\\LearningDelegatesAndEvents.csproj": {
               "projectPath": "D:\\.Net Learning\\AllInOne Learning\\LearningDelegatesAndEvents\\LearningDelegatesAndEvents.csproj"
             },

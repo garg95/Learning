@@ -17,3 +17,5 @@ D:\.Net Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\All
 D:\.Net Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.pdb
 D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\SingletonVsStatic.dll
 D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\SingletonVsStatic.pdb
+D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\AsyncVsThread.dll
+D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\AsyncVsThread.pdb
