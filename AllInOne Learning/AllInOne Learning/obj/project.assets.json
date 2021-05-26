@@ -4730,6 +4730,16 @@
         "runtime": {
           "bin/placeholder/LearningDelegatesAndEvents.dll": {}
         }
+      },
+      "SingletonVsStatic/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/SingletonVsStatic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SingletonVsStatic.dll": {}
+        }
       }
     }
   },
@@ -12977,6 +12987,11 @@
       "type": "project",
       "path": "../LearningDelegatesAndEvents/LearningDelegatesAndEvents.csproj",
       "msbuildProject": "../LearningDelegatesAndEvents/LearningDelegatesAndEvents.csproj"
+    },
+    "SingletonVsStatic/1.0.0": {
+      "type": "project",
+      "path": "../SingletonVsStatic/SingletonVsStatic.csproj",
+      "msbuildProject": "../SingletonVsStatic/SingletonVsStatic.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12985,7 +13000,8 @@
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.3"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.3",
+      "SingletonVsStatic >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -13022,6 +13038,9 @@
           "projectReferences": {
             "D:\\.Net Learning\\AllInOne Learning\\LearningDelegatesAndEvents\\LearningDelegatesAndEvents.csproj": {
               "projectPath": "D:\\.Net Learning\\AllInOne Learning\\LearningDelegatesAndEvents\\LearningDelegatesAndEvents.csproj"
+            },
+            "D:\\.Net Learning\\AllInOne Learning\\SingletonVsStatic\\SingletonVsStatic.csproj": {
+              "projectPath": "D:\\.Net Learning\\AllInOne Learning\\SingletonVsStatic\\SingletonVsStatic.csproj"
             }
           }
         }

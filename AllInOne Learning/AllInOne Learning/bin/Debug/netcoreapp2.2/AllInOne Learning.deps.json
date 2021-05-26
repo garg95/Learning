@@ -28,7 +28,8 @@
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.NETCore.App": "2.2.0",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.2.3"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.2.3",
+          "SingletonVsStatic": "1.0.0"
         },
         "runtime": {
           "AllInOne Learning.dll": {}
@@ -349,6 +350,14 @@
         },
         "compile": {
           "LearningDelegatesAndEvents.dll": {}
+        }
+      },
+      "SingletonVsStatic/1.0.0": {
+        "runtime": {
+          "SingletonVsStatic.dll": {}
+        },
+        "compile": {
+          "SingletonVsStatic.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3680,6 +3689,11 @@
       "hashPath": "system.linq.parallel.4.3.0.nupkg.sha512"
     },
     "LearningDelegatesAndEvents/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SingletonVsStatic/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\LearningDelegatesAndEvents\LearningDelegatesAndEvents.csproj" />
+    <ProjectReference Include="..\SingletonVsStatic\SingletonVsStatic.csproj" />
   </ItemGroup>
 
 </Project>

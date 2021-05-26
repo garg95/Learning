@@ -1,14 +1,15 @@
 .SideBarIndex{
-    position :fixed;
+    /* position :fixed; */
     float:left;
     background-color:wheat;
     width:15%;
-    margin-top:5px;
 }
 
 .SideBarIndex li{
     list-style: none;
+
 }
+
 .SideBarIndex li a{
     text-decoration: none;
     color:darkblue;
