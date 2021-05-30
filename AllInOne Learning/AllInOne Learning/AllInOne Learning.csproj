@@ -14,6 +14,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AsyncVsThread\AsyncVsThread.csproj" />
+    <ProjectReference Include="..\Keywords\Keywords.csproj" />
+    <ProjectReference Include="..\LazyLoading\LazyLoading.csproj" />
     <ProjectReference Include="..\LearningDelegatesAndEvents\LearningDelegatesAndEvents.csproj" />
     <ProjectReference Include="..\SingletonVsStatic\SingletonVsStatic.csproj" />
   </ItemGroup>

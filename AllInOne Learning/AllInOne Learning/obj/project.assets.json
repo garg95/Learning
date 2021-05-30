@@ -1676,7 +1676,7 @@
           "lib/netstandard1.3/Microsoft.CodeAnalysis.Workspaces.dll": {}
         }
       },
-      "Microsoft.CSharp/4.5.0": {
+      "Microsoft.CSharp/4.7.0": {
         "type": "package",
         "compile": {
           "ref/netcoreapp2.0/_._": {}
@@ -4731,6 +4731,29 @@
           "bin/placeholder/AsyncVsThread.dll": {}
         }
       },
+      "Keywords/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "compile": {
+          "bin/placeholder/Keywords.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Keywords.dll": {}
+        }
+      },
+      "LazyLoading/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/LazyLoading.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LazyLoading.dll": {}
+        }
+      },
       "LearningDelegatesAndEvents/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -6147,10 +6170,10 @@
         "microsoft.codeanalysis.workspaces.common.nuspec"
       ]
     },
-    "Microsoft.CSharp/4.5.0": {
-      "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
+    "Microsoft.CSharp/4.7.0": {
+      "sha512": "pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
       "type": "package",
-      "path": "microsoft.csharp/4.5.0",
+      "path": "microsoft.csharp/4.7.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -6163,6 +6186,7 @@
         "lib/netcoreapp2.0/_._",
         "lib/netstandard1.3/Microsoft.CSharp.dll",
         "lib/netstandard2.0/Microsoft.CSharp.dll",
+        "lib/netstandard2.0/Microsoft.CSharp.xml",
         "lib/portable-net45+win8+wp8+wpa81/_._",
         "lib/uap10.0.16299/_._",
         "lib/win8/_._",
@@ -6172,7 +6196,7 @@
         "lib/xamarinmac20/_._",
         "lib/xamarintvos10/_._",
         "lib/xamarinwatchos10/_._",
-        "microsoft.csharp.4.5.0.nupkg.sha512",
+        "microsoft.csharp.4.7.0.nupkg.sha512",
         "microsoft.csharp.nuspec",
         "ref/MonoAndroid10/_._",
         "ref/MonoTouch10/_._",
@@ -12998,6 +13022,16 @@
       "path": "../AsyncVsThread/AsyncVsThread.csproj",
       "msbuildProject": "../AsyncVsThread/AsyncVsThread.csproj"
     },
+    "Keywords/1.0.0": {
+      "type": "project",
+      "path": "../Keywords/Keywords.csproj",
+      "msbuildProject": "../Keywords/Keywords.csproj"
+    },
+    "LazyLoading/1.0.0": {
+      "type": "project",
+      "path": "../LazyLoading/LazyLoading.csproj",
+      "msbuildProject": "../LazyLoading/LazyLoading.csproj"
+    },
     "LearningDelegatesAndEvents/1.0.0": {
       "type": "project",
       "path": "../LearningDelegatesAndEvents/LearningDelegatesAndEvents.csproj",
@@ -13012,6 +13046,8 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "AsyncVsThread >= 1.0.0",
+      "Keywords >= 1.0.0",
+      "LazyLoading >= 1.0.0",
       "LearningDelegatesAndEvents >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
@@ -13054,6 +13090,12 @@
           "projectReferences": {
             "D:\\.Net Learning\\AllInOne Learning\\AsyncVsThread\\AsyncVsThread.csproj": {
               "projectPath": "D:\\.Net Learning\\AllInOne Learning\\AsyncVsThread\\AsyncVsThread.csproj"
+            },
+            "D:\\.Net Learning\\AllInOne Learning\\Keywords\\Keywords.csproj": {
+              "projectPath": "D:\\.Net Learning\\AllInOne Learning\\Keywords\\Keywords.csproj"
+            },
+            "D:\\.Net Learning\\AllInOne Learning\\LazyLoading\\LazyLoading.csproj": {
+              "projectPath": "D:\\.Net Learning\\AllInOne Learning\\LazyLoading\\LazyLoading.csproj"
             },
             "D:\\.Net Learning\\AllInOne Learning\\LearningDelegatesAndEvents\\LearningDelegatesAndEvents.csproj": {
               "projectPath": "D:\\.Net Learning\\AllInOne Learning\\LearningDelegatesAndEvents\\LearningDelegatesAndEvents.csproj"

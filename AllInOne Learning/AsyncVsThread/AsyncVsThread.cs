@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace AsyncVsThread
 {
-    public static class AsyncVsThread
+    public class AsyncVsThread
     {
         static StringBuilder sb = new StringBuilder();
         public static async Task<string> InitialMethod()

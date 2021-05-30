@@ -19,3 +19,7 @@ D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\Sin
 D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\SingletonVsStatic.pdb
 D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\AsyncVsThread.dll
 D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\AsyncVsThread.pdb
+D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\LazyLoading.dll
+D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\LazyLoading.pdb
+D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\Keywords.dll
+D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\Keywords.pdb

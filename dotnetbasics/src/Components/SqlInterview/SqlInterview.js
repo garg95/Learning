@@ -6,6 +6,8 @@ import sqlfunc from '../../Assets/Interview/sqlfunction.PNG';
 import rowadd from '../../Assets/Interview/rowaddress.PNG';
 import clustered from '../../Assets/Interview/clustered.PNG';
 import nonclustered from '../../Assets/Interview/nonclustered.PNG';
+import Check1 from '../../Assets/Interview/check1.PNG';
+import Check2 from '../../Assets/Interview/check2.PNG';
 
 export default function SqlInterview(){
     return (
@@ -64,7 +66,23 @@ export default function SqlInterview(){
                 <li>Stored Procedures cannot be used in the SQL statements anywhere in the WHERE/HAVING/SELECT section whereas Function can be.</li>
                 <li>An exception can be handled by try-catch block in a Procedure whereas try-catch block cannot be used in a Function</li>
             </ul>
-            
+            <hr/>
+            <h3>What will happen if you pass characters more than set limit of a vaiable in proc? For eg proc takes varchar(20) and your are passing 100 characters</h3>
+            <p>It will trim to 20 characters</p>
+            <hr />
+            <h3>How to do Sql tuning?</h3>
+            <hr/>
+            <h3>How to use transactions in proc and where to use commit and rollback?</h3>
+            <hr />
+            <h3>How to restrict a particular value to insert in a table?</h3>
+            <p>Either we can make use of check constraint or we can make trigger to avoid insertion of such values</p>
+            <img src={Check1} />
+            <img src={Check2} />
+            <hr />
+            <h3>What are the different types of triggers?</h3>
+            <p><b>There are 2 types of triggers- DDL triggers and DML triggers</b></p>
+            <p>We can use only FOR/AFTER clause in DDL triggers not INSTEAD OF clause means we can make only After Trigger on DDL statements.</p>
+            <p>We can use both for/after and INSTEAD OF triggers on DML statements</p>
         </div>
     )
 }

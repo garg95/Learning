@@ -11,7 +11,8 @@
     color:black;
 }
 .DNBStyle li:nth-child(even){
-    color:grey;
+    color:rgb(124, 101, 211);
+
 }
 
 .DNBStyle img{
