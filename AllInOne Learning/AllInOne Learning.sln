@@ -13,7 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncVsThread", "AsyncVsThr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LazyLoading", "LazyLoading\LazyLoading.csproj", "{00A7252C-4F30-49D8-8AB6-6747E626613F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keywords", "Keywords\Keywords.csproj", "{39081B6E-2482-4E26-BF52-DD0CD6CE1AF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Keywords", "Keywords\Keywords.csproj", "{39081B6E-2482-4E26-BF52-DD0CD6CE1AF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Locks", "Locks\Locks.csproj", "{8B8720CF-7357-4D8E-8549-C3E62F7C118D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deadlock", "Deadlock\Deadlock.csproj", "{0D2B38AB-A221-410B-A5D1-3B19E5A0D38D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interlocked_locking", "Interlocked_locking\Interlocked_locking.csproj", "{F93F5267-88F4-43A1-87E0-91E1F404F848}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{39081B6E-2482-4E26-BF52-DD0CD6CE1AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39081B6E-2482-4E26-BF52-DD0CD6CE1AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39081B6E-2482-4E26-BF52-DD0CD6CE1AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B8720CF-7357-4D8E-8549-C3E62F7C118D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8720CF-7357-4D8E-8549-C3E62F7C118D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8720CF-7357-4D8E-8549-C3E62F7C118D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8720CF-7357-4D8E-8549-C3E62F7C118D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D2B38AB-A221-410B-A5D1-3B19E5A0D38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2B38AB-A221-410B-A5D1-3B19E5A0D38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2B38AB-A221-410B-A5D1-3B19E5A0D38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2B38AB-A221-410B-A5D1-3B19E5A0D38D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93F5267-88F4-43A1-87E0-91E1F404F848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93F5267-88F4-43A1-87E0-91E1F404F848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93F5267-88F4-43A1-87E0-91E1F404F848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93F5267-88F4-43A1-87E0-91E1F404F848}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+D:\.Net Learning\AllInOne Learning\Locks\bin\Debug\netcoreapp2.2\Locks.deps.json
+D:\.Net Learning\AllInOne Learning\Locks\bin\Debug\netcoreapp2.2\Locks.runtimeconfig.json
+D:\.Net Learning\AllInOne Learning\Locks\bin\Debug\netcoreapp2.2\Locks.runtimeconfig.dev.json
+D:\.Net Learning\AllInOne Learning\Locks\bin\Debug\netcoreapp2.2\Locks.dll
+D:\.Net Learning\AllInOne Learning\Locks\bin\Debug\netcoreapp2.2\Locks.pdb
+D:\.Net Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.csprojAssemblyReference.cache
+D:\.Net Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.csproj.CoreCompileInputs.cache
+D:\.Net Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.AssemblyInfoInputs.cache
+D:\.Net Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.AssemblyInfo.cs
+D:\.Net Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.dll
+D:\.Net Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.pdb

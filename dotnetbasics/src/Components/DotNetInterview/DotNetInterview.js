@@ -30,6 +30,8 @@ export default function DotNetInterview(){
             <hr />
             <h3>Can we have public constructor without static keyword in static class?</h3>
             <p>No - we cannot have that because static classes cannot have instance constructors</p>
+            <hr/>
+            <h3>How can we create a deadlock?</h3>
         </div>
     )
 }

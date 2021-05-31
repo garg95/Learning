@@ -20,7 +20,7 @@ namespace Keywords
 
             cObj.Name = dyn.Name;
         }
-        static void AnotherFunc()
+        static void AnotherFunc() //cannot take var as an argument 
         {
 
         }

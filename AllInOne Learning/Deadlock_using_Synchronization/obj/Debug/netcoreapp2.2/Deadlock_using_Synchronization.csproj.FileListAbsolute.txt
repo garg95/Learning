@@ -1,0 +1,10 @@
+D:\.Net Learning\AllInOne Learning\Deadlock_using_Synchronization\bin\Debug\netcoreapp2.2\Deadlock_using_Synchronization.deps.json
+D:\.Net Learning\AllInOne Learning\Deadlock_using_Synchronization\bin\Debug\netcoreapp2.2\Deadlock_using_Synchronization.runtimeconfig.json
+D:\.Net Learning\AllInOne Learning\Deadlock_using_Synchronization\bin\Debug\netcoreapp2.2\Deadlock_using_Synchronization.runtimeconfig.dev.json
+D:\.Net Learning\AllInOne Learning\Deadlock_using_Synchronization\bin\Debug\netcoreapp2.2\Deadlock_using_Synchronization.dll
+D:\.Net Learning\AllInOne Learning\Deadlock_using_Synchronization\bin\Debug\netcoreapp2.2\Deadlock_using_Synchronization.pdb
+D:\.Net Learning\AllInOne Learning\Deadlock_using_Synchronization\obj\Debug\netcoreapp2.2\Deadlock_using_Synchronization.csproj.CoreCompileInputs.cache
+D:\.Net Learning\AllInOne Learning\Deadlock_using_Synchronization\obj\Debug\netcoreapp2.2\Deadlock_using_Synchronization.AssemblyInfoInputs.cache
+D:\.Net Learning\AllInOne Learning\Deadlock_using_Synchronization\obj\Debug\netcoreapp2.2\Deadlock_using_Synchronization.AssemblyInfo.cs
+D:\.Net Learning\AllInOne Learning\Deadlock_using_Synchronization\obj\Debug\netcoreapp2.2\Deadlock_using_Synchronization.dll
+D:\.Net Learning\AllInOne Learning\Deadlock_using_Synchronization\obj\Debug\netcoreapp2.2\Deadlock_using_Synchronization.pdb
