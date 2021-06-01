@@ -9,6 +9,7 @@ import AsyncVsThread from './AsyncVsAwait/AsyncVsThread';
 import LazyLoading from './LazyLoading/LazyLoading';
 import Keywords from './Keywords/keywords';
 import Designpatterns from './DesignPatterns/DesignPatterns';
+import JwtToken from './JWTToken/JwtToken';
 class dotnetbasics extends Component {
     state = {
         topics: [
@@ -18,6 +19,7 @@ class dotnetbasics extends Component {
             { Name: 'Async Vs Thread', Path: '/dotnetbasics/asyncvsthread' },
             { Name: 'Lazy Loading', Path: '/dotnetbasics/lazyloading' },
             { Name: 'Design Patterns', Path: '/dotnetbasics/designpatterns' },
+            { Name: 'JWT Token', Path: '/dotnetbasics/jwttoken' },
             { Name: 'Keywords', Path: '/dotnetbasics/keywords' }
         ]   
     }
@@ -33,6 +35,7 @@ class dotnetbasics extends Component {
                         <Route path='/dotnetbasics/asyncvsthread' component={AsyncVsThread} />
                         <Route path='/dotnetbasics/lazyloading' component={LazyLoading} />
                         <Route path='/dotnetbasics/keywords' component={Keywords} />
+                        <Route path='/dotnetbasics/jwttoken' component={JwtToken} />
                         <Route path='/dotnetbasics/designpatterns' component={Designpatterns} />
                     </Switch>
                 </div>

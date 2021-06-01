@@ -32,6 +32,29 @@ export default function DotNetInterview(){
             <p>No - we cannot have that because static classes cannot have instance constructors</p>
             <hr/>
             <h3>How can we create a deadlock?</h3>
+            <hr/>
+            <h3>What's the use of Global.asax file?</h3>
+            <p>Effectively, global.asax allows you to write code that runs in response to "system level" events, such as the application starting, a session ending, an application error occuring, without having to try and shoe-horn that code into each and every page of your site.</p>
+            <p>Once you've added the file, you can add code under any of the events that are listed</p>
+            <ul>
+                <li>Application_Start</li>
+                <li>Application_End</li>
+                <li>Session_Start</li>
+                <li>Session_End</li>
+                <li>Application_BeginRequest</li>
+                <li>Application_AuthenticateRequest</li>
+                <li>Application_Error</li>
+            </ul>
+            <hr />
+            <h3>Purpose of web.config files?</h3>
+            <hr/>
+            <h3> Structural patterns - Flyweight, Proxy, Facade, Bridge?</h3>
+            <hr/>
+            <h3> what are Covariance and contravariance in c#</h3>
+            <hr/>
+            <h3>AssemblyDelaySignAttribute and AssemblyKeyFileAttribute</h3>
+            <hr/>
+            
         </div>
     )
 }

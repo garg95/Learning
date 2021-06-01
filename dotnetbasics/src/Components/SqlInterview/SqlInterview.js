@@ -8,6 +8,10 @@ import clustered from '../../Assets/Interview/clustered.PNG';
 import nonclustered from '../../Assets/Interview/nonclustered.PNG';
 import Check1 from '../../Assets/Interview/check1.PNG';
 import Check2 from '../../Assets/Interview/check2.PNG';
+import rank from '../../Assets/Interview/rank.PNG';
+import row_number from '../../Assets/Interview/row_number.PNG';
+import dense_rank from '../../Assets/Interview/dense_rank.PNG';
+import trancount from '../../Assets/Interview/trancount.PNG';
 
 export default function SqlInterview(){
     return (
@@ -83,6 +87,23 @@ export default function SqlInterview(){
             <p><b>There are 2 types of triggers- DDL triggers and DML triggers</b></p>
             <p>We can use only FOR/AFTER clause in DDL triggers not INSTEAD OF clause means we can make only After Trigger on DDL statements.</p>
             <p>We can use both for/after and INSTEAD OF triggers on DML statements</p>
+            <hr/>
+            <h3>Difference between DataReader and DataAddapter?</h3>
+            <p><b>DataReader:</b>It is read only format, we can't update records. It is connection oriented, whenever data bind from database that need connection and then connection is disconnected<br/>DataReader is used to read the data from database and it is a read and forward only connection oriented architecture during fetch the data from database. DataReader will fetch the data very fast when compared with dataset. Generally we will use ExecuteReader object to bind data to datareader. *.Holds the connection open until you are finished (don't forget to close it!). *.Can typically only be iterated over once *.Is not as useful for updating back to the database</p>
+            <p><b>DataAddapter:</b> Dataadapter is a disconnected oriented architecture. DataAdapter is like a mediator between DataSet (or) DataTable and database. This dataadapter is used to read the data from database and bind to dataset.DataAdapter will acts as a Bridge between DataSet and database. This dataadapter object is used to read the data from database and bind that data to dataset. Dataadapter is a disconnected oriented architecture. *. Lets you close the connection as soon it's done loading data, and may even close it for you automatically *.All of the results are available in memory *.You can iterate over it as many times as you need, or even look up a specific record by index</p>
+            <hr/>
+            <h3>Difference between rank , rownumber , dense_rank()</h3>
+            <p>Lets do ranking on the base of name</p>
+            <h4>Row_Number()</h4>
+            <img src={row_number} />
+            <h4>Rank()</h4>
+            <img src={rank} />
+            <h4>Dense_Rank()</h4>
+            <img src={dense_rank} />
+            <hr/>
+            <h3>What is @@TRANCOUNT ?</h3>
+            <p>Returns the number of BEGIN TRANSACTION statements that have occurred on the current connection. On every commit count is decremented</p>
+            <img src={trancount} />
         </div>
     )
 }
