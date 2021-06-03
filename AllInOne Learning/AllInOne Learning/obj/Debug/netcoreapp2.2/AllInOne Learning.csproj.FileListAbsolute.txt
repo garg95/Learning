@@ -23,3 +23,5 @@ D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\Laz
 D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\LazyLoading.pdb
 D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\Keywords.dll
 D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\Keywords.pdb
+D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\CloudinaryImageUpload.dll
+D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\CloudinaryImageUpload.pdb
