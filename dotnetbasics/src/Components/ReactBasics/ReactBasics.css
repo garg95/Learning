@@ -1,0 +1,22 @@
+.RBStyle p{
+    margin-left:10px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.RBStyle li{
+    font-size: 20px;
+    margin-top:10px;
+}
+.RBStyle li:nth-child(odd){
+    color:black;
+}
+.RBStyle li:nth-child(even){
+    color:rgb(124, 101, 211);
+
+}
+
+.RBStyle img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}

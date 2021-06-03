@@ -17,9 +17,9 @@ export default function SingleVsStatic() {
                 <li>Singleton objects can be passed to methods, while static class as it does not have instance can't be passed as parameters.</li>
                 <li>We cannot have null object inside a <b>lock</b></li>
             </ul>
-            <img src={nullLock} />
+            <img src={nullLock} alt=""/>
             <h2>Singleton class structure </h2>
-            <img src={singleton} />
+            <img src={singleton} alt=""/>
         </div >
     )
 }

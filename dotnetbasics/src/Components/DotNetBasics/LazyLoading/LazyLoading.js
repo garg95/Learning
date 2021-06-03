@@ -12,7 +12,7 @@ export default function lazyloading() {
                 <li>First we need to wrap our object with <b>Lazy</b> keyword </li>
                 <li>Then from inside constructor (or anywhere), initialize that lazy object pointing towards function which should be called when that object is used for iteration or fetching values</li>
             </ul>
-            <img src={lazy} />
+            <img src={lazy} alt=""/>
             <h2>Advantages of lazy loading</h2>
             <ul>
                 <li>It minimizes the startup time of your application</li>

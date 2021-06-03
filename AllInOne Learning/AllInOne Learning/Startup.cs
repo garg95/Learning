@@ -14,6 +14,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Logging;
 using Microsoft.IdentityModel.Tokens;
+using AllInOne_Learning.ExtensionsForConfigureServices;
 
 namespace AllInOne_Learning
 {
@@ -31,21 +32,18 @@ namespace AllInOne_Learning
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
-            //Now we have to authenticate the token as well
-            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-                    .AddJwtBearer(options =>
-                        {
-                            options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters
-                            {
-                                ValidateIssuer = true,
-                                ValidateAudience = true,
-                                ValidateLifetime = true,
-                                ValidateIssuerSigningKey = true,
-                                ValidIssuer = "Vishal",
-                                ValidAudience = "Vishal",
-                                IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("pintusharmaqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqweqwe@hj"))
-                            };
-                        });
+            #region custom extensions
+            
+            services.GetServicesForToken();//Now we have to authenticate the token as well
+            services.GetDependencyInjection();
+            #endregion
+
+            services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
+            {
+                builder.AllowAnyOrigin()
+                       .AllowAnyMethod()
+                       .AllowAnyHeader();
+            }));
 
             //this basically simplifies the exception that occurred while creating token in GenerateJWTToken class
             //Error occurred due to small length of the secret key.
@@ -65,6 +63,7 @@ namespace AllInOne_Learning
                 app.UseHsts();
             }
             app.UseAuthentication();
+            app.UseCors("MyPolicy");
             app.UseHttpsRedirection();
             app.UseMvc();
         }

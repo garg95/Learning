@@ -10,6 +10,7 @@ import LazyLoading from './LazyLoading/LazyLoading';
 import Keywords from './Keywords/keywords';
 import Designpatterns from './DesignPatterns/DesignPatterns';
 import JwtToken from './JWTToken/JwtToken';
+import Covariance from './CovarianceAndContravariance/CovarianceAndContraVariance';
 class dotnetbasics extends Component {
     state = {
         topics: [
@@ -20,7 +21,8 @@ class dotnetbasics extends Component {
             { Name: 'Lazy Loading', Path: '/dotnetbasics/lazyloading' },
             { Name: 'Design Patterns', Path: '/dotnetbasics/designpatterns' },
             { Name: 'JWT Token', Path: '/dotnetbasics/jwttoken' },
-            { Name: 'Keywords', Path: '/dotnetbasics/keywords' }
+            { Name: 'Keywords', Path: '/dotnetbasics/keywords' },
+            { Name: 'Covariance and Contravariance', Path: '/dotnetbasics/covariancecontra' }
         ]   
     }
     render() {
@@ -37,6 +39,7 @@ class dotnetbasics extends Component {
                         <Route path='/dotnetbasics/keywords' component={Keywords} />
                         <Route path='/dotnetbasics/jwttoken' component={JwtToken} />
                         <Route path='/dotnetbasics/designpatterns' component={Designpatterns} />
+                        <Route path='/dotnetbasics/covariancecontra' component={Covariance} />
                     </Switch>
                 </div>
             </>

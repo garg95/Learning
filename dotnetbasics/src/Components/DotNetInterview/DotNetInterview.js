@@ -23,7 +23,7 @@ export default function DotNetInterview(){
             <h3>What is boxing and unboxing?</h3>
             <hr />
             <h3>Difference between object,var and dynamic?</h3>
-            <img src={obj} />
+            <img src={obj} alt=""/>
             <hr/>
             <h3>Can we have static constructor inside a static class?</h3>
             <p>No- because we cannot have access modifier inside static constructor</p>

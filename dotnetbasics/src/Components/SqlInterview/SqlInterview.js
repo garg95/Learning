@@ -24,7 +24,7 @@ export default function SqlInterview(){
                 </ul>
             </div>
             <h3>Difference between char, varchar, nvarchar, nchart?</h3>
-            <img src={char} />
+            <img src={char} alt=""/>
             <hr/>
             <h3>What is the max size of char, varchar, nvarchar, nchar?</h3>
             <ul>
@@ -41,13 +41,13 @@ export default function SqlInterview(){
             <hr/>
             <h3>What is clustered index?</h3>
             <p>A clustered index defines the order in which data is physically stored in a table. Table data can be sorted in only way, therefore, there can be only one clustered index per table. In SQL Server, the primary key constraint automatically creates a clustered index on that particular column.</p>
-            <img src={clustered} />
+            <img src={clustered} alt=""/>
             <hr/>
             <h3>What is non clustered index?</h3>
             <p>A non-clustered index doesn’t sort the physical data inside the table. In fact, a non-clustered index is stored at one place and table data is stored in another place. This is similar to a textbook where the book content is located in one place and the index is located in another. This allows for more than one non-clustered index per table.</p>
-            <img src={nonclustered} />
+            <img src={nonclustered} alt=""/>
             <p>It is important to mention here that inside the table the data will be sorted by a clustered index. However, inside the non-clustered index data is stored in the specified order. The index contains column values on which the index is created and the address of the record that the column value belongs to.</p>
-            <img src={rowadd} />
+            <img src={rowadd} alt=""/>
             <p>So if a query is issued to retrieve the gender and DOB of the student named “Jon”, the database will first search the name “Jon” inside the index. It will then read the row address of “Jon” and will go directly to that row in the “student” table to fetch gender and DOB of Jon.</p>
             <hr/>
             <h3>Can we use aggregate function without using group by?</h3>
@@ -55,7 +55,7 @@ export default function SqlInterview(){
             <hr />
             <h3>Can we return table from a function?</h3>
             <p>Yes (in view or function make sure that column names are unique i.e if Column name "Id" is there in 2 tables then make alias of Id for one table)</p>
-            <img src={sqlfunc} />
+            <img src={sqlfunc}alt="" />
             <hr/>
             <h3>Can we have 1 primary key for multiple columns?</h3>
             <p>Primary keys must contain UNIQUE values, and cannot contain NULL values. A table can have only ONE primary key; and in the table, this primary key can consist of single or multiple columns</p>
@@ -80,8 +80,8 @@ export default function SqlInterview(){
             <hr />
             <h3>How to restrict a particular value to insert in a table?</h3>
             <p>Either we can make use of check constraint or we can make trigger to avoid insertion of such values</p>
-            <img src={Check1} />
-            <img src={Check2} />
+            <img src={Check1} alt=""/>
+            <img src={Check2}alt="" />
             <hr />
             <h3>What are the different types of triggers?</h3>
             <p><b>There are 2 types of triggers- DDL triggers and DML triggers</b></p>
@@ -95,15 +95,15 @@ export default function SqlInterview(){
             <h3>Difference between rank , rownumber , dense_rank()</h3>
             <p>Lets do ranking on the base of name</p>
             <h4>Row_Number()</h4>
-            <img src={row_number} />
+            <img src={row_number} alt=""/>
             <h4>Rank()</h4>
-            <img src={rank} />
+            <img src={rank} alt=""/>
             <h4>Dense_Rank()</h4>
-            <img src={dense_rank} />
+            <img src={dense_rank} alt=""/>
             <hr/>
             <h3>What is @@TRANCOUNT ?</h3>
             <p>Returns the number of BEGIN TRANSACTION statements that have occurred on the current connection. On every commit count is decremented</p>
-            <img src={trancount} />
+            <img src={trancount} alt=""/>
         </div>
     )
 }

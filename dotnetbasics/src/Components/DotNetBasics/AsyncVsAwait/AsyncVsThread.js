@@ -1,9 +1,14 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 import '../dotnetbasics.css';
 import conpar from '../../../Assets/DotNetBasics/conpar.PNG';
 
-export default function asyncvsawait() {
+export default function Asyncvsawait() {
+    useEffect(()=>{
+         var nodeList=document.getElementsByTagName('img');
+         var array=Array.prototype.slice.call(nodeList);
+         array.map(key=>key.setAttribute("alt","hello"));
+    },[]);
     return (
         <div className='DNBStyle'>
             <h2>Lets first understand Concurrency vs Parallelism ?</h2>
@@ -12,7 +17,7 @@ export default function asyncvsawait() {
                 <li><b>Concurrency</b> It means executing multiple tasks on same core</li>
                 <li><b>Parallelism</b> It means executing multiple tasks on multiple coresor multiple machines</li>
             </ul>
-            <img src={conpar} style={{height:'400px'}}/>
+            <img src={conpar} style={{height:'400px'}} alt=""/>
             <ul>
                 <li>By looking at the image above we can say that concurrency is a feel of parallelism and parallelism is a real parallelism</li>
                 <li>In concurrency we have time slicing i.e sometime is given to t1 and sometime it is given to t2 or we can say we have context switches</li>
