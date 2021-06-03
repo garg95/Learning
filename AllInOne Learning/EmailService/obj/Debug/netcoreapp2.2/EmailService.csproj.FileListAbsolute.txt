@@ -1,0 +1,10 @@
+D:\.Net Learning\AllInOne Learning\EmailService\bin\Debug\netcoreapp2.2\EmailService.deps.json
+D:\.Net Learning\AllInOne Learning\EmailService\bin\Debug\netcoreapp2.2\EmailService.runtimeconfig.json
+D:\.Net Learning\AllInOne Learning\EmailService\bin\Debug\netcoreapp2.2\EmailService.runtimeconfig.dev.json
+D:\.Net Learning\AllInOne Learning\EmailService\bin\Debug\netcoreapp2.2\EmailService.dll
+D:\.Net Learning\AllInOne Learning\EmailService\bin\Debug\netcoreapp2.2\EmailService.pdb
+D:\.Net Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.csproj.CoreCompileInputs.cache
+D:\.Net Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.AssemblyInfoInputs.cache
+D:\.Net Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.AssemblyInfo.cs
+D:\.Net Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.dll
+D:\.Net Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.pdb
