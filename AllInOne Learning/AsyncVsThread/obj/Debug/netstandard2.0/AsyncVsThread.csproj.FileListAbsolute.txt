@@ -1,9 +1,9 @@
 D:\.Net Learning\AllInOne Learning\AsyncVsThread\bin\Debug\netstandard2.0\AsyncVsThread.deps.json
 D:\.Net Learning\AllInOne Learning\AsyncVsThread\bin\Debug\netstandard2.0\AsyncVsThread.dll
 D:\.Net Learning\AllInOne Learning\AsyncVsThread\bin\Debug\netstandard2.0\AsyncVsThread.pdb
-D:\.Net Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.csprojAssemblyReference.cache
 D:\.Net Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.csproj.CoreCompileInputs.cache
 D:\.Net Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.AssemblyInfoInputs.cache
 D:\.Net Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.AssemblyInfo.cs
 D:\.Net Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.dll
 D:\.Net Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.pdb
+D:\.Net Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.csprojAssemblyReference.cache

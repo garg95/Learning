@@ -8,3 +8,4 @@ D:\.Net Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailSer
 D:\.Net Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.AssemblyInfo.cs
 D:\.Net Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.dll
 D:\.Net Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.pdb
+D:\.Net Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.csprojAssemblyReference.cache

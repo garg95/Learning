@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AsyncVsThread\AsyncVsThread.csproj" />
+    <ProjectReference Include="..\CloudinaryImageUpload\CloudinaryImageUpload.csproj" />
     <ProjectReference Include="..\Keywords\Keywords.csproj" />
     <ProjectReference Include="..\LazyLoading\LazyLoading.csproj" />
     <ProjectReference Include="..\LearningDelegatesAndEvents\LearningDelegatesAndEvents.csproj" />

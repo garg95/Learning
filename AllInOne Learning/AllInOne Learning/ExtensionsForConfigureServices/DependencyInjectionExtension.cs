@@ -1,5 +1,6 @@
 ﻿using AllInOne_Learning.DataLayer;
 using AllInOne_Learning.DataLayer.Interface;
+//using CloudinaryImageUpload;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -13,6 +14,7 @@ namespace AllInOne_Learning.ExtensionsForConfigureServices
         public static IServiceCollection GetDependencyInjection(this IServiceCollection services)
         {
             services.AddScoped<ICompanyData, CompanyData>();
+            //services.AddScoped<ICloudinarySystem, CloudinarySystem>();
             return services;
         }
     }

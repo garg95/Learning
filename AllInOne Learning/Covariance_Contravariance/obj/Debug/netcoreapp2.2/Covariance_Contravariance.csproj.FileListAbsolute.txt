@@ -3,9 +3,9 @@ D:\.Net Learning\AllInOne Learning\Covariance_Contravariance\bin\Debug\netcoreap
 D:\.Net Learning\AllInOne Learning\Covariance_Contravariance\bin\Debug\netcoreapp2.2\Covariance_Contravariance.runtimeconfig.dev.json
 D:\.Net Learning\AllInOne Learning\Covariance_Contravariance\bin\Debug\netcoreapp2.2\Covariance_Contravariance.dll
 D:\.Net Learning\AllInOne Learning\Covariance_Contravariance\bin\Debug\netcoreapp2.2\Covariance_Contravariance.pdb
-D:\.Net Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug\netcoreapp2.2\Covariance_Contravariance.csprojAssemblyReference.cache
 D:\.Net Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug\netcoreapp2.2\Covariance_Contravariance.csproj.CoreCompileInputs.cache
 D:\.Net Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug\netcoreapp2.2\Covariance_Contravariance.AssemblyInfoInputs.cache
 D:\.Net Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug\netcoreapp2.2\Covariance_Contravariance.AssemblyInfo.cs
 D:\.Net Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug\netcoreapp2.2\Covariance_Contravariance.dll
 D:\.Net Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug\netcoreapp2.2\Covariance_Contravariance.pdb
+D:\.Net Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug\netcoreapp2.2\Covariance_Contravariance.csprojAssemblyReference.cache
