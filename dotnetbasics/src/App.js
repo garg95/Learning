@@ -7,6 +7,8 @@ import DotNetInterview from './Components/DotNetInterview/DotNetInterview';
 import SqlInterview from './Components/SqlInterview/SqlInterview';
 import Pending from './Components/PendingImplementation/Pending';
 import ReactBasics from './Components/ReactBasics/ReactBasics';
+import ReactInterview from './Components/ReactInterview/ReactInterview';
+import ReactImplementation from './ReactImplementations/ReactImplementations';
 
 class App extends Component {
   state={
@@ -15,6 +17,8 @@ class App extends Component {
       {Name:'ReactBasics',Path:'/reactbasics'},
       {Name:'DotNet Interview',Path:'/interview'},
       {Name:'Sql Interview',Path:'/sqlinterview'},
+      {Name:'React Interview',Path:'/reactinterview'},
+      {Name:'React Implementations',Path:'/reactimplementation'},
       {Name:'Pending Implementation',Path:'/pending'}
     ]
   }
@@ -28,6 +32,8 @@ class App extends Component {
           <Route path='/interview' component={DotNetInterview} />
           <Route path='/sqlinterview' component={SqlInterview} />
           <Route path='/pending' component={Pending} />
+          <Route path='/reactinterview' component={ReactInterview} />
+          <Route path='/reactimplementation' component={ReactImplementation} />
         </Switch>
       </div>
     );

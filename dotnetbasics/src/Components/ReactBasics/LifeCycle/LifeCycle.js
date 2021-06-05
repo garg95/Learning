@@ -26,6 +26,9 @@ export default class Lifecycle extends React.Component   {
             this.setState({color:'red'});
         },1000);
     }
+    componentWillUnmount(){
+        console.clear();
+    }
     render(){
         return (
             <div className='RBStyle'>

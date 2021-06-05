@@ -54,7 +54,9 @@ export default function DotNetInterview(){
             <hr/>
             <h3>AssemblyDelaySignAttribute and AssemblyKeyFileAttribute</h3>
             <hr/>
-            
+            <h3>Difference between IEnumerable and IEnumerator</h3>
+            <hr/>
+            <h3>What is formatter pattern</h3>
         </div>
     )
 }

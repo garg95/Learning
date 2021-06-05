@@ -29,5 +29,11 @@ namespace AllInOne_Learning.Controllers
         {
             Var_Dynamics_Object.Main();
         }
+        [Route("yield")]
+        public string Getyield()
+        {
+            return Yield.Main();
+        }
+
     }
 }

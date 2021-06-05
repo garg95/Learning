@@ -45,6 +45,16 @@ export default function keywords() {
                 <li><b>lock(this.locker)this.counter++; </b>This is safe to do (provided you remember to lock everywhere else that you access this.counter). It prevents any other threads from executing any other code which is guarded by locker. Using locks also, prevents the multi-CPU reordering problems as above, which is great.The problem is, locking is slow, and if you re-use the locker in some other place which is not really related then you can end up blocking your other threads for no reason.</li>
                 <li><b>Interlocked.Increment(ref this.counter);</b>This is safe, as it effectively does the read, increment, and write in 'one hit' which can't be interrupted. Because of this, it won't affect any other code, and you don't need to remember to lock elsewhere either. It's also very fast</li>
             </ol>
+            <hr/>
+            <h1>Yield</h1>
+            <p>There are 2 basic uses of yield keyword.</p>
+            <ol>
+                <li>Custom Iteration</li>
+                <li>Stateful iteration</li>
+            </ol>
+            <p>When we use yield keyword control moves from source to caller and from caller to sources back and forth</p>
+            <p>This yield keyword is used with IEnumerable or IEnumerator</p>
+            <p>You can use a <b>yield break </b>statement to end the iteration</p>
         </div >
     )
 }

@@ -26,5 +26,10 @@ namespace AllInOne_Learning.Controllers
         {
             _cloudinarySystem.Add(formFile);
         }
+        [HttpPost]
+        public void UploadImageToLocalPath([FromForm]IFormFile formFile)
+        {
+
+        }
     }
 }
