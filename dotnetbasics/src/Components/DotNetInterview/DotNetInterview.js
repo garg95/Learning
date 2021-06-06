@@ -3,6 +3,7 @@ import React from 'react'
 import '../../App.css';
 
 import obj from '../../Assets/Interview/objects.PNG';
+import enumerable from '../../Assets/Interview/IenumerableIEnumerator.PNG';
 
 export default function DotNetInterview(){
     return (
@@ -51,10 +52,17 @@ export default function DotNetInterview(){
             <h3> Structural patterns - Flyweight, Proxy, Facade, Bridge?</h3>
             <hr/>
             <h3> what are Covariance and contravariance in c#</h3>
+            <p>Explained</p>
             <hr/>
             <h3>AssemblyDelaySignAttribute and AssemblyKeyFileAttribute</h3>
             <hr/>
             <h3>Difference between IEnumerable and IEnumerator</h3>
+            <p>IEnumerable and IEnumerator both are interfaces in C#.</p>
+            <ul>
+                <li>IEnumerable is an interface defining a single method GetEnumerator() that returns an IEnumerator interface.</li>
+                <li>IEnumerator has two methods MoveNext and Reset. It also has a property called Current</li>
+            </ul>
+            <img src={enumerable} alt="enumerable" />
             <hr/>
             <h3>What is formatter pattern</h3>
         </div>
