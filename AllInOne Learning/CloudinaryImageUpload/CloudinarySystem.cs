@@ -21,8 +21,9 @@ namespace CloudinaryImageUpload
             var account = new Account("shin95", "481715297592877", "kE-_-RSHjCTOAWDWkLb6wicSF_A");
             _cloudinary = new Cloudinary(account);
         }
-        public void Add(IFormFile formFile)
+        public string Add(IFormFile formFile)
         {
+            string path = string.Empty;
             if(formFile.Length>0)
             {
                 var stream = formFile.OpenReadStream();
@@ -30,8 +31,13 @@ namespace CloudinaryImageUpload
                 {
                     File = new FileDescription(formFile.FileName, stream)
                 };
-                var uploadResult = _cloudinary.Upload(uploadParams);
+                ImageUploadResult uploadResult = _cloudinary.Upload(uploadParams);
+                if (uploadResult != null)
+                {
+                    path = uploadResult.Url.ToString();
+                }
             }
+            return path;
         }
     }
 }

@@ -7,6 +7,6 @@ namespace CloudinaryImageUpload
 {
     public interface ICloudinarySystem
     {
-        void Add(IFormFile formFile);
+        string Add(IFormFile formFile);
     }
 }

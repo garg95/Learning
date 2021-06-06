@@ -22,4 +22,8 @@
     <ProjectReference Include="..\SingletonVsStatic\SingletonVsStatic.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+
 </Project>
