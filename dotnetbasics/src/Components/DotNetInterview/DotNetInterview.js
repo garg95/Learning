@@ -65,6 +65,22 @@ export default function DotNetInterview(){
             <img src={enumerable} alt="enumerable" />
             <hr/>
             <h3>What is formatter pattern</h3>
+            <hr/>
+            <h3>Difference between IEnumerable and IQueryable ?</h3>
+            <table style={{width:'60%',border:'1px solid black'}}>
+                <tr>
+                    <th>IEnumerable</th>
+                    <th>IQueryable</th>
+                </tr>
+                <tr>
+                    <td>IEnumerable doesn’t support lazy loading</td>
+                    <td>IQueryable support lazy loading</td>
+                </tr>
+                <tr>
+                    <td>Querying data from a database, IEnumerable execute a select query on the server side, load data in-memory on a client-side and then filter data.</td>
+                    <td>Querying data from a database, IQueryable execute the select query on the server side with all filters.</td>
+                </tr>
+            </table>
         </div>
     )
 }

@@ -6,6 +6,7 @@ import observer from '../../../../Assets/DotNetBasics/observer.PNG';
 import main from '../../../../Assets/DotNetBasics/main.PNG';
 
 export default function Observer(){
+     
     return (
         <div className="DNBStyle">
             <h1>Observer Pattern</h1>

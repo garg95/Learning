@@ -5,7 +5,6 @@ import SideBarIndex from '../../SideTools/SideBarIndex';
 import BackEndHit from './BackendHit/BackEndHit';
 import LifeCycle from './LifeCycle/LifeCycle';
 import Keywords from './Keywords/Keywords';
-
 class ReactBasics extends Component {
     state = {
         topics: [
