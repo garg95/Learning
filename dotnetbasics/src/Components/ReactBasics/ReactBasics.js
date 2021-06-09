@@ -5,12 +5,14 @@ import SideBarIndex from '../../SideTools/SideBarIndex';
 import BackEndHit from './BackendHit/BackEndHit';
 import LifeCycle from './LifeCycle/LifeCycle';
 import Keywords from './Keywords/Keywords';
+import Webpack from './Webpack/Webpack_Main';
 class ReactBasics extends Component {
     state = {
         topics: [
             { Name: 'Life Cycle', Path: '/reactbasics/lifecycle' },
             { Name: 'Keywords', Path: '/reactbasics/keywords' },
-            { Name: 'Backend Hit', Path: '/reactbasics/backendhit' }
+            { Name: 'Backend Hit', Path: '/reactbasics/backendhit' },
+            { Name: 'Webpack', Path: '/reactbasics/web_packs' }
         ]   
     }
     render() {
@@ -22,6 +24,7 @@ class ReactBasics extends Component {
                         <Route path='/reactbasics/lifecycle' component={LifeCycle} />
                         <Route path='/reactbasics/backendhit' component={BackEndHit} />
                         <Route path='/reactbasics/keywords' component={Keywords} />
+                        <Route path='/reactbasics/web_packs' component={Webpack} />
                     </Switch>
                 </div>
             </>

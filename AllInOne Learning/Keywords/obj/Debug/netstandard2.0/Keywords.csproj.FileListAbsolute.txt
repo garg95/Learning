@@ -1,7 +1,6 @@
 D:\.Net Learning\AllInOne Learning\Keywords\bin\Debug\netstandard2.0\Keywords.deps.json
 D:\.Net Learning\AllInOne Learning\Keywords\bin\Debug\netstandard2.0\Keywords.dll
 D:\.Net Learning\AllInOne Learning\Keywords\bin\Debug\netstandard2.0\Keywords.pdb
-D:\.Net Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.csprojAssemblyReference.cache
 D:\.Net Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.csproj.CoreCompileInputs.cache
 D:\.Net Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.AssemblyInfoInputs.cache
 D:\.Net Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.AssemblyInfo.cs

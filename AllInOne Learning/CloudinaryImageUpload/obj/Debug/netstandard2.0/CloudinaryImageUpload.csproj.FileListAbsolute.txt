@@ -1,9 +1,9 @@
 D:\.Net Learning\AllInOne Learning\CloudinaryImageUpload\bin\Debug\netstandard2.0\CloudinaryImageUpload.deps.json
 D:\.Net Learning\AllInOne Learning\CloudinaryImageUpload\bin\Debug\netstandard2.0\CloudinaryImageUpload.dll
+D:\.Net Learning\AllInOne Learning\CloudinaryImageUpload\bin\Debug\netstandard2.0\CloudinaryImageUpload.pdb
+D:\.Net Learning\AllInOne Learning\CloudinaryImageUpload\obj\Debug\netstandard2.0\CloudinaryImageUpload.csprojAssemblyReference.cache
 D:\.Net Learning\AllInOne Learning\CloudinaryImageUpload\obj\Debug\netstandard2.0\CloudinaryImageUpload.csproj.CoreCompileInputs.cache
 D:\.Net Learning\AllInOne Learning\CloudinaryImageUpload\obj\Debug\netstandard2.0\CloudinaryImageUpload.AssemblyInfoInputs.cache
 D:\.Net Learning\AllInOne Learning\CloudinaryImageUpload\obj\Debug\netstandard2.0\CloudinaryImageUpload.AssemblyInfo.cs
-D:\.Net Learning\AllInOne Learning\CloudinaryImageUpload\bin\Debug\netstandard2.0\CloudinaryImageUpload.pdb
-D:\.Net Learning\AllInOne Learning\CloudinaryImageUpload\obj\Debug\netstandard2.0\CloudinaryImageUpload.csprojAssemblyReference.cache
 D:\.Net Learning\AllInOne Learning\CloudinaryImageUpload\obj\Debug\netstandard2.0\CloudinaryImageUpload.dll
 D:\.Net Learning\AllInOne Learning\CloudinaryImageUpload\obj\Debug\netstandard2.0\CloudinaryImageUpload.pdb
