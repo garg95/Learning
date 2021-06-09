@@ -10,6 +10,7 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.0" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
   </ItemGroup>
 
@@ -19,10 +20,12 @@
     <ProjectReference Include="..\Keywords\Keywords.csproj" />
     <ProjectReference Include="..\LazyLoading\LazyLoading.csproj" />
     <ProjectReference Include="..\LearningDelegatesAndEvents\LearningDelegatesAndEvents.csproj" />
+    <ProjectReference Include="..\RepositoryPattern\RepositoryPattern.csproj" />
     <ProjectReference Include="..\SingletonVsStatic\SingletonVsStatic.csproj" />
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="BusinessLayer\" />
     <Folder Include="Images\" />
   </ItemGroup>
 

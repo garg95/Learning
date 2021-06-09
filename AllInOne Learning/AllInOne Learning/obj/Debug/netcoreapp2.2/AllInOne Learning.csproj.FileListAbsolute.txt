@@ -25,3 +25,5 @@ D:\.Net Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\All
 D:\.Net Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.csproj.CopyComplete
 D:\.Net Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.dll
 D:\.Net Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.pdb
+D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\RepositoryPattern.dll
+D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\RepositoryPattern.pdb

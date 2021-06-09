@@ -35,7 +35,7 @@ namespace AllInOne_Learning
             #region custom extensions
             
             services.GetServicesForToken();//Now we have to authenticate the token as well
-            services.GetDependencyInjection();
+            services.GetDependencyInjection(Configuration);
             #endregion
 
             services.AddCors(o => o.AddPolicy("MyPolicy", builder =>

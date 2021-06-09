@@ -6,3 +6,4 @@ D:\.Net Learning\AllInOne Learning\LazyLoading\obj\Debug\netstandard2.0\LazyLoad
 D:\.Net Learning\AllInOne Learning\LazyLoading\obj\Debug\netstandard2.0\LazyLoading.AssemblyInfo.cs
 D:\.Net Learning\AllInOne Learning\LazyLoading\obj\Debug\netstandard2.0\LazyLoading.dll
 D:\.Net Learning\AllInOne Learning\LazyLoading\obj\Debug\netstandard2.0\LazyLoading.pdb
+D:\.Net Learning\AllInOne Learning\LazyLoading\obj\Debug\netstandard2.0\LazyLoading.csprojAssemblyReference.cache

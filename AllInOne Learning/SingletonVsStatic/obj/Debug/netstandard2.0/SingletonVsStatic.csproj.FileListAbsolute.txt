@@ -6,3 +6,4 @@ D:\.Net Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\Si
 D:\.Net Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.AssemblyInfo.cs
 D:\.Net Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.dll
 D:\.Net Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.pdb
+D:\.Net Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.csprojAssemblyReference.cache

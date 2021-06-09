@@ -4790,6 +4790,19 @@
           "bin/placeholder/LearningDelegatesAndEvents.dll": {}
         }
       },
+      "RepositoryPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.2.0"
+        },
+        "compile": {
+          "bin/placeholder/RepositoryPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RepositoryPattern.dll": {}
+        }
+      },
       "SingletonVsStatic/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -13084,6 +13097,11 @@
       "path": "../LearningDelegatesAndEvents/LearningDelegatesAndEvents.csproj",
       "msbuildProject": "../LearningDelegatesAndEvents/LearningDelegatesAndEvents.csproj"
     },
+    "RepositoryPattern/1.0.0": {
+      "type": "project",
+      "path": "../RepositoryPattern/RepositoryPattern.csproj",
+      "msbuildProject": "../RepositoryPattern/RepositoryPattern.csproj"
+    },
     "SingletonVsStatic/1.0.0": {
       "type": "project",
       "path": "../SingletonVsStatic/SingletonVsStatic.csproj",
@@ -13100,8 +13118,10 @@
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
+      "Microsoft.EntityFrameworkCore >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.3",
+      "RepositoryPattern >= 1.0.0",
       "SingletonVsStatic >= 1.0.0"
     ]
   },
@@ -13152,6 +13172,9 @@
             "D:\\.Net Learning\\AllInOne Learning\\LearningDelegatesAndEvents\\LearningDelegatesAndEvents.csproj": {
               "projectPath": "D:\\.Net Learning\\AllInOne Learning\\LearningDelegatesAndEvents\\LearningDelegatesAndEvents.csproj"
             },
+            "D:\\.Net Learning\\AllInOne Learning\\RepositoryPattern\\RepositoryPattern.csproj": {
+              "projectPath": "D:\\.Net Learning\\AllInOne Learning\\RepositoryPattern\\RepositoryPattern.csproj"
+            },
             "D:\\.Net Learning\\AllInOne Learning\\SingletonVsStatic\\SingletonVsStatic.csproj": {
               "projectPath": "D:\\.Net Learning\\AllInOne Learning\\SingletonVsStatic\\SingletonVsStatic.csproj"
             }
@@ -13179,6 +13202,10 @@
           },
           "Microsoft.AspNetCore.Razor.Design": {
             "suppressParent": "All",
+            "target": "Package",
+            "version": "[2.2.0, )"
+          },
+          "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[2.2.0, )"
           },

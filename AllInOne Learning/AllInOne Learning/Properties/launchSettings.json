@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/Cloudinary",
+      "launchUrl": "api/Repository",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

@@ -6,3 +6,4 @@ D:\.Net Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncV
 D:\.Net Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.AssemblyInfo.cs
 D:\.Net Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.dll
 D:\.Net Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.pdb
+D:\.Net Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.csprojAssemblyReference.cache

@@ -6,3 +6,4 @@ D:\.Net Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.As
 D:\.Net Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.AssemblyInfo.cs
 D:\.Net Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.dll
 D:\.Net Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.pdb
+D:\.Net Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.csprojAssemblyReference.cache

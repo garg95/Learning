@@ -1,0 +1,9 @@
+D:\.Net Learning\AllInOne Learning\RepositoryPattern\bin\Debug\netstandard2.0\RepositoryPattern.deps.json
+D:\.Net Learning\AllInOne Learning\RepositoryPattern\bin\Debug\netstandard2.0\RepositoryPattern.dll
+D:\.Net Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.csprojAssemblyReference.cache
+D:\.Net Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.csproj.CoreCompileInputs.cache
+D:\.Net Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.AssemblyInfoInputs.cache
+D:\.Net Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.AssemblyInfo.cs
+D:\.Net Learning\AllInOne Learning\RepositoryPattern\bin\Debug\netstandard2.0\RepositoryPattern.pdb
+D:\.Net Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.dll
+D:\.Net Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.pdb

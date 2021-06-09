@@ -32,8 +32,10 @@
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
+          "Microsoft.EntityFrameworkCore": "2.2.0",
           "Microsoft.NETCore.App": "2.2.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.2.3",
+          "RepositoryPattern": "1.0.0",
           "SingletonVsStatic": "1.0.0"
         },
         "runtime": {
@@ -438,6 +440,17 @@
         },
         "compile": {
           "LearningDelegatesAndEvents.dll": {}
+        }
+      },
+      "RepositoryPattern/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.2.0"
+        },
+        "runtime": {
+          "RepositoryPattern.dll": {}
+        },
+        "compile": {
+          "RepositoryPattern.dll": {}
         }
       },
       "SingletonVsStatic/1.0.0": {
@@ -3803,6 +3816,11 @@
       "sha512": ""
     },
     "LearningDelegatesAndEvents/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RepositoryPattern/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
