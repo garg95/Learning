@@ -10,7 +10,8 @@ namespace RepositoryPattern.DataModel
     public class Orders
     {
         [Key]
-        public int OrderId { get; set; }
+        [Column("OrderId")]
+        public int Id { get; set; }
         public string OrderName { get; set; }
         public int CustomerId { get; set; }
     }

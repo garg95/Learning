@@ -15,7 +15,7 @@ namespace RepositoryPattern.DataLayer
 
         public Orders GetOrderById(int id)
         {
-            return _dbContext.Orders.FirstOrDefault(x => x.OrderId == id);
+            return _dbContext.Orders.FirstOrDefault(x => x.Id == id);
         }
     }
 }
