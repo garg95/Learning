@@ -4,6 +4,7 @@ import '../../App.css';
 
 import obj from '../../Assets/Interview/objects.PNG';
 import enumerable from '../../Assets/Interview/IenumerableIEnumerator.PNG';
+import tuple from '../../Assets/Interview/tuple.PNG';
 
 export default function DotNetInterview(){
     return (
@@ -81,6 +82,19 @@ export default function DotNetInterview(){
                     <td>Querying data from a database, IQueryable execute the select query on the server side with all filters.</td>
                 </tr>
             </table>
+            <hr/>
+            <h3>Which is effective Tuple or keyvaluepair</h3>
+            <p>Tuple was faster in every test than KeyValuePair except in allocation performance. Therefore, if your program does any work beyond allocating the collections, it is a better idea to use Tuple instead of KeyValuePair.</p>
+            <p>The nanoseconds lost from allocating a Tuple could be quickly made up after a few function calls with a Tuple argument.</p>
+            <img src={tuple} alt="tuple" />
+            <p><b>Using structs</b> (such as KeyValuePair) is usually a bad idea. While structs are faster to allocate, they slow down many other important parts of your program. With structs, simple method calls suddenly become many times slower.</p>
+            <hr/>
+            <h3>Difference between Convert.ToString() and .ToString()</h3>
+            <p>The basic difference between them is the Convert function handles NULLS while i.ToString () does not; it will throw a NULL reference exception error. So as good coding practice using convert is always safe.</p>
+            <h3>Difference between Int16 and Int32 and Int64</h3>
+            <p><b>Int16:(short)</b>This Struct is used to represents 16-bit signed integer. The Int16 can store both types of values including negative and positive between the ranges of <b>-32768 to +32767</b>.</p>
+            <p><b>Int32:(int)</b>This Struct is used to represents 32-bit signed integer. The Int32 can store both types of values including negative and positive between the ranges of <b>-2147483648 to +2147483647.</b></p>
+            <p><b>Int64:(long)</b>This Struct is used to represents 64-bit signed integer. The Int64 can store both types of values including negative and positive between the ranges of -9,223,372,036,854,775,808 to +9, 223,372,036,854,775,807</p>
         </div>
     )
 }

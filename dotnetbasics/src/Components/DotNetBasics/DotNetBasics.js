@@ -11,6 +11,8 @@ import Keywords from './Keywords/keywords';
 import Designpatterns from './DesignPatterns/DesignPatterns';
 import JwtToken from './JWTToken/JwtToken';
 import Covariance from './CovarianceAndContravariance/CovarianceAndContraVariance';
+import CLR from './CLR/CLR';
+import Mvclifecycle from './MVCLifeCycle/MVCLifeCycle';
 class dotnetbasics extends Component {
     state = {
         topics: [
@@ -22,7 +24,9 @@ class dotnetbasics extends Component {
             { Name: 'Design Patterns', Path: '/dotnetbasics/designpatterns' },
             { Name: 'JWT Token', Path: '/dotnetbasics/jwttoken' },
             { Name: 'Keywords', Path: '/dotnetbasics/keywords' },
-            { Name: 'Covariance and Contravariance', Path: '/dotnetbasics/covariancecontra' }
+            { Name: 'Covariance and Contravariance', Path: '/dotnetbasics/covariancecontra' },
+            { Name: 'CLR', Path: '/dotnetbasics/clr' },
+            { Name: 'MVC Life Cycle', Path: '/dotnetbasics/mvclife' }
         ]   
     }
     render() {
@@ -40,6 +44,8 @@ class dotnetbasics extends Component {
                         <Route path='/dotnetbasics/jwttoken' component={JwtToken} />
                         <Route path='/dotnetbasics/designpatterns' component={Designpatterns} />
                         <Route path='/dotnetbasics/covariancecontra' component={Covariance} />
+                        <Route path='/dotnetbasics/clr' component={CLR} />
+                        <Route path='/dotnetbasics/mvclife' component={Mvclifecycle} />
                     </Switch>
                 </div>
             </>

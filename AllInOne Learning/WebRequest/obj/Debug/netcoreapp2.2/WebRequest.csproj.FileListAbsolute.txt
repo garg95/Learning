@@ -1,0 +1,11 @@
+D:\.Net Learning\AllInOne Learning\WebRequest\bin\Debug\netcoreapp2.2\WebRequest.deps.json
+D:\.Net Learning\AllInOne Learning\WebRequest\bin\Debug\netcoreapp2.2\WebRequest.runtimeconfig.json
+D:\.Net Learning\AllInOne Learning\WebRequest\bin\Debug\netcoreapp2.2\WebRequest.runtimeconfig.dev.json
+D:\.Net Learning\AllInOne Learning\WebRequest\bin\Debug\netcoreapp2.2\WebRequest.dll
+D:\.Net Learning\AllInOne Learning\WebRequest\bin\Debug\netcoreapp2.2\WebRequest.pdb
+D:\.Net Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.csprojAssemblyReference.cache
+D:\.Net Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.csproj.CoreCompileInputs.cache
+D:\.Net Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.AssemblyInfoInputs.cache
+D:\.Net Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.AssemblyInfo.cs
+D:\.Net Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.dll
+D:\.Net Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.pdb

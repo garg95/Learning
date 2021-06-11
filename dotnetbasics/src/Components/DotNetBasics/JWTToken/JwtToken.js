@@ -10,7 +10,7 @@ export default function jwttoken() {
             <p>Things to consider in mind while creating JWT token. Basically we need 5 things to create token</p>
             <ol>
                 <li>Userid and pasword</li>
-                <li>Algorithm (HMAC) to encrypt all the info </li>
+                <li>Algorithm (HMAC-&gt;Hash based Message Authentication System) to encrypt all the info </li>
                 <li>Claims(i.e user roles )</li>
                 <li>Secret Key -&gt; This is needed with algorithm so that no one can know which algo is being used to encrypt the info</li>
                 <li>Token expiry , issuer etc </li>
@@ -25,6 +25,8 @@ export default function jwttoken() {
                 <li>SOmeone first have to get hold of your computer</li>
                 <li>Lets say somehow your token is taken by someone else, so to ensure that token comes from same user we can set location,browser info in token</li>
             </ul>
+            <h3>HMAC (Hash based Message Authentication System)</h3>
+            <p>It is a mechanism for calculating a message authentication code using a hash function in combination with a shared secret key between the two parties involved in sending and receiving the data (Front-end client and Back-end HTTP service) . The main use for HMAC to verify the integrity, authenticity, and the identity of the message sender.</p>
         </div >
     )
 }

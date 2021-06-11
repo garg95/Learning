@@ -16,6 +16,7 @@ export default function DelegatesAndEvents(){
             <p>There is one problem of naked delegates i.e from sender end delegate is public and from receiver end someone can set delegate to null. So if this happens all the other receivers will not recieve messages from sender. So we will get exception of object reference cannot be set to null</p>
             <p>So event is an encapsulation over a delegate</p>
             <p>When we made use of event , it totally becomes publisher subscriber mechanism where publisher can send messages to subscribers but subscriber cannot touch publisher</p>
+            <h3>Real life scenario</h3>
         </div>
     )
 }

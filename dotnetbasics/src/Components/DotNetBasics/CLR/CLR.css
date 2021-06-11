@@ -1,0 +1,17 @@
+.CLR {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+.CLR img{
+    display:'block';
+    margin-left: auto;
+    margin-right: auto;
+}
+.CLR li{
+    margin-top:10px;
+    font-size: 20px;
+}
+.CLR img{
+    display:block;
+    margin:auto;
+}

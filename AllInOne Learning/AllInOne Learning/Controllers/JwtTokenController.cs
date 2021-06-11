@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Threading.Tasks;
 using AllInOne_Learning.Token;
@@ -14,7 +15,10 @@ namespace AllInOne_Learning.Controllers
     {
         public string GetToken()
         {
-            return new GenerateJWTToken().GenerateToken("vishal");
+            var token= new GenerateJWTToken().GenerateToken("vishal");
+            var handler = new JwtSecurityTokenHandler();
+            var decryptedToken= handler.ReadToken(token);
+            return token;
         }
     }
 }
