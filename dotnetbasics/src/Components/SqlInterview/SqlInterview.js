@@ -12,6 +12,8 @@ import rank from '../../Assets/Interview/rank.PNG';
 import row_number from '../../Assets/Interview/row_number.PNG';
 import dense_rank from '../../Assets/Interview/dense_rank.PNG';
 import trancount from '../../Assets/Interview/trancount.PNG';
+import nocount1 from '../../Assets/Interview/nocount1.PNG';
+import nocount2 from '../../Assets/Interview/nocount2.PNG';
 
 export default function SqlInterview(){
     return (
@@ -104,6 +106,21 @@ export default function SqlInterview(){
             <h3>What is @@TRANCOUNT ?</h3>
             <p>Returns the number of BEGIN TRANSACTION statements that have occurred on the current connection. On every commit count is decremented</p>
             <img src={trancount} alt=""/>
+            <hr/>
+            <h3>What is <b>SET NOCOUNT ON/OFF</b>?</h3>
+            <p>SET NOCOUNT ON/OFF statement controls the behavior in SQL Server to show the number of affected rows in the T-SQL query.</p>
+            <ul>
+                <li><b>SET NOCOUNT OFF –</b>By default, SQL Server shows the number of affected rows in the messages pane</li>
+                <li><b>SET NOCOUNT ON -</b>We can specify this set statement at the beginning of the statement. Once we enable it, we do not get the number of affected rows in the output</li>
+            </ul>
+            <p>Below image is with set nocount off</p>
+            <img src={nocount1} alt=""/>
+            <p>Below image is with set nocount on</p>
+            <img src={nocount2} alt=""/>
+            <hr/>
+            <h3>What is @@rowcount and coalesce</h3>
+            <p><b>Coalesce: </b>The COALESCE() function returns the first non-null value in a list. Priority is from left to right. </p>
+            <p><b>/@/@rowcount: </b>It gives the number of affected rows.</p>
         </div>
     )
 }

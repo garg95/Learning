@@ -19,18 +19,20 @@ namespace EmailService
                 mailMessage.Subject = "Here comes the email";
                 mailMessage.IsBodyHtml = false;
                 SmtpClient smtpClient = new SmtpClient();
-                smtpClient.Port = 465; //587
+                smtpClient.Port = 25; //587
                 smtpClient.Host = "smtp.gmail.com";
                 smtpClient.EnableSsl = true;
                 smtpClient.UseDefaultCredentials = false;
                 smtpClient.Credentials = new NetworkCredential("garg.vishu95@gmail.com", "Bornsince1995");
                 smtpClient.DeliveryMethod = SmtpDeliveryMethod.Network;
                 smtpClient.Send(mailMessage);
+                
             }
             catch (Exception ex)
             {
                 Console.Write(string.Format("lol {0}",ex.Message));
             }
+            Console.ReadLine();
         }
     }
 }

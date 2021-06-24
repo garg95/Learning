@@ -5,6 +5,7 @@ import '../../App.css';
 import obj from '../../Assets/Interview/objects.PNG';
 import enumerable from '../../Assets/Interview/IenumerableIEnumerator.PNG';
 import tuple from '../../Assets/Interview/tuple.PNG';
+import struct from '../../Assets/Interview/struct.PNG';
 
 export default function DotNetInterview(){
     return (
@@ -95,6 +96,14 @@ export default function DotNetInterview(){
             <p><b>Int16:(short)</b>This Struct is used to represents 16-bit signed integer. The Int16 can store both types of values including negative and positive between the ranges of <b>-32768 to +32767</b>.</p>
             <p><b>Int32:(int)</b>This Struct is used to represents 32-bit signed integer. The Int32 can store both types of values including negative and positive between the ranges of <b>-2147483648 to +2147483647.</b></p>
             <p><b>Int64:(long)</b>This Struct is used to represents 64-bit signed integer. The Int64 can store both types of values including negative and positive between the ranges of -9,223,372,036,854,775,808 to +9, 223,372,036,854,775,807</p>
+            <hr/>
+            <h3>Difference between class and struct</h3>
+            <img src={struct} alt="struct" />
+            <hr/>
+            <h3>What are replay attacks?</h3>
+            <p>A replay attack (also known as playback attack) is a form of network attack in which valid data transmission is maliciously or fraudulently repeated or delayed</p>
+            <p>Suppose Alice wants to prove her identity to Bob. Bob requests her password as proof of identity, which Alice dutifully provides (possibly after some transformation like hashing (or even salting) the password); meanwhile, Eve is eavesdropping on the conversation and keeps the password (or the hash). After the interchange is over, Eve (acting as Alice) connects to Bob; when asked for proof of identity, Eve sends Alice's password (or hash) read from the last session which Bob accepts, thus granting Eve access.</p>
+            <p><b>Countermeasures:</b>Replay attacks can be prevented by tagging each encrypted component with a session ID and a component number.</p>
         </div>
     )
 }

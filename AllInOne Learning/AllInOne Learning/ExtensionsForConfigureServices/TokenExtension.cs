@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
+﻿using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 using System;
@@ -27,6 +28,21 @@ namespace AllInOne_Learning.ExtensionsForConfigureServices
                             IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("pintusharmaqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqweqwe@hj"))
                         };
                     });
+            #region googleAPI token authentication
+            services.AddAuthentication(options =>
+            {
+                options.DefaultScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+            })
+            .AddCookie(options =>
+            {
+                options.LoginPath = "/con/googleapi/index"; //this is basically reroutes whenever u try to access unauthorized page
+            })
+            .AddGoogle(options =>
+            {
+                options.ClientId = "741556789535-s3tufo74m2arffip4b4rfaopt8b8eetb.apps.googleusercontent.com";
+                options.ClientSecret = "ZTcOlxyxtTJCpI74Ox2FuRWt";
+            });
+            #endregion
             return services;
         }
     }

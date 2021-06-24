@@ -3133,6 +3133,110 @@
           }
         }
       },
+      "SimpleInjector/5.3.0": {
+        "type": "package",
+        "dependencies": {
+          "System.ComponentModel": "4.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/SimpleInjector.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SimpleInjector.dll": {}
+        }
+      },
+      "SimpleInjector.Integration.AspNetCore/5.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Hosting.Abstractions": "2.1.0",
+          "Microsoft.AspNetCore.Http": "2.1.0",
+          "Microsoft.AspNetCore.Http.Abstractions": "2.1.0",
+          "SimpleInjector": "[5.3.0, 6.0.0)",
+          "SimpleInjector.Integration.GenericHost": "[5.3.0, 6.0.0)",
+          "SimpleInjector.Integration.ServiceCollection": "[5.3.0, 6.0.0)"
+        },
+        "compile": {
+          "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.dll": {}
+        }
+      },
+      "SimpleInjector.Integration.AspNetCore.Mvc/5.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Razor": "2.1.0",
+          "Microsoft.AspNetCore.Mvc.RazorPages": "2.1.0",
+          "SimpleInjector": "[5.3.0, 6.0.0)",
+          "SimpleInjector.Integration.AspNetCore.Mvc.ViewFeatures": "[5.3.0, 6.0.0)"
+        },
+        "compile": {
+          "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.Mvc.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.Mvc.dll": {}
+        }
+      },
+      "SimpleInjector.Integration.AspNetCore.Mvc.Core/5.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Core": "2.1.0",
+          "SimpleInjector": "[5.3.0, 6.0.0)",
+          "SimpleInjector.Integration.AspNetCore": "[5.3.0, 6.0.0)"
+        },
+        "compile": {
+          "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.Mvc.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.Mvc.Core.dll": {}
+        }
+      },
+      "SimpleInjector.Integration.AspNetCore.Mvc.ViewFeatures/5.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Core": "2.1.0",
+          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.1.0",
+          "SimpleInjector": "[5.3.0, 6.0.0)",
+          "SimpleInjector.Integration.AspNetCore.Mvc.Core": "[5.3.0, 6.0.0)"
+        },
+        "compile": {
+          "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.Mvc.ViewFeatures.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.Mvc.ViewFeatures.dll": {}
+        }
+      },
+      "SimpleInjector.Integration.GenericHost/5.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.1.0",
+          "Microsoft.Extensions.Hosting.Abstractions": "2.1.0",
+          "SimpleInjector": "[5.3.0, 6.0.0)",
+          "SimpleInjector.Integration.ServiceCollection": "[5.3.0, 6.0.0)"
+        },
+        "compile": {
+          "lib/netstandard2.0/SimpleInjector.Integration.GenericHost.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SimpleInjector.Integration.GenericHost.dll": {}
+        }
+      },
+      "SimpleInjector.Integration.ServiceCollection/5.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.1.0",
+          "Microsoft.Extensions.Hosting.Abstractions": "2.1.0",
+          "Microsoft.Extensions.Localization.Abstractions": "2.1.0",
+          "Microsoft.Extensions.Logging.Abstractions": "2.1.0",
+          "SimpleInjector": "[5.3.0, 6.0.0)"
+        },
+        "compile": {
+          "lib/netstandard2.0/SimpleInjector.Integration.ServiceCollection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SimpleInjector.Integration.ServiceCollection.dll": {}
+        }
+      },
       "System.AppContext/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -3228,6 +3332,18 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Collections.Specialized.dll": {}
+        }
+      },
+      "System.ComponentModel/4.0.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime": "4.1.0"
+        },
+        "compile": {
+          "ref/netstandard1.0/System.ComponentModel.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/System.ComponentModel.dll": {}
         }
       },
       "System.ComponentModel.Annotations/4.5.0": {
@@ -8499,6 +8615,114 @@
         "version.txt"
       ]
     },
+    "SimpleInjector/5.3.0": {
+      "sha512": "6gDJplL8Qc7MH4Cj+944ufX/uw0LNQbS+0lFs99Bg8rHAcu/xn+y1+iH2Lkt517/BeQpy4Cqbm06uYmt47TpJQ==",
+      "type": "package",
+      "path": "simpleinjector/5.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/SimpleInjector.dll",
+        "lib/net45/SimpleInjector.xml",
+        "lib/net461/SimpleInjector.dll",
+        "lib/net461/SimpleInjector.xml",
+        "lib/netstandard1.0/SimpleInjector.dll",
+        "lib/netstandard1.0/SimpleInjector.xml",
+        "lib/netstandard1.3/SimpleInjector.dll",
+        "lib/netstandard1.3/SimpleInjector.xml",
+        "lib/netstandard2.0/SimpleInjector.dll",
+        "lib/netstandard2.0/SimpleInjector.xml",
+        "lib/netstandard2.1/SimpleInjector.dll",
+        "lib/netstandard2.1/SimpleInjector.xml",
+        "simpleinjector.5.3.0.nupkg.sha512",
+        "simpleinjector.nuspec",
+        "simpleinjector.png"
+      ]
+    },
+    "SimpleInjector.Integration.AspNetCore/5.3.0": {
+      "sha512": "4IQVu+ljtTwa5ybNVJrsZ2hhJVvCkJpnbCiRwSZLw54xid6Z75DVVtZVkxMVoHc2wfMjD4iv2Z9+bx1+nT/A1Q==",
+      "type": "package",
+      "path": "simpleinjector.integration.aspnetcore/5.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.dll",
+        "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.xml",
+        "simpleinjector.integration.aspnetcore.5.3.0.nupkg.sha512",
+        "simpleinjector.integration.aspnetcore.nuspec",
+        "simpleinjector.png"
+      ]
+    },
+    "SimpleInjector.Integration.AspNetCore.Mvc/5.3.0": {
+      "sha512": "lG2rdNqvxt94rMzygbHFLhDUelXMcpn+u5ecv4FUfU5nXjrBS3R2fsBJrvttiy+IGAE5Cp+HEciuUeESEk9U6w==",
+      "type": "package",
+      "path": "simpleinjector.integration.aspnetcore.mvc/5.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.Mvc.dll",
+        "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.Mvc.xml",
+        "simpleinjector.integration.aspnetcore.mvc.5.3.0.nupkg.sha512",
+        "simpleinjector.integration.aspnetcore.mvc.nuspec",
+        "simpleinjector.png"
+      ]
+    },
+    "SimpleInjector.Integration.AspNetCore.Mvc.Core/5.3.0": {
+      "sha512": "Z5Urr90UcwOU1OLry0l6vv6YB9HbJPtd50DNsMpipKzyDzWPr6m1gATRmdEC0WkUtGPELj61yd+7HpkJlFZSuA==",
+      "type": "package",
+      "path": "simpleinjector.integration.aspnetcore.mvc.core/5.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.Mvc.Core.dll",
+        "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.Mvc.Core.xml",
+        "simpleinjector.integration.aspnetcore.mvc.core.5.3.0.nupkg.sha512",
+        "simpleinjector.integration.aspnetcore.mvc.core.nuspec",
+        "simpleinjector.png"
+      ]
+    },
+    "SimpleInjector.Integration.AspNetCore.Mvc.ViewFeatures/5.3.0": {
+      "sha512": "qez9GFciXgEHhS/JXI7/rzX3wwTLiRbAuXbr6hj6nJ0TbGXbputHQqASesDlheOE4h+6dniOgPRDU9YJQD/qfQ==",
+      "type": "package",
+      "path": "simpleinjector.integration.aspnetcore.mvc.viewfeatures/5.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.Mvc.ViewFeatures.dll",
+        "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.Mvc.ViewFeatures.xml",
+        "simpleinjector.integration.aspnetcore.mvc.viewfeatures.5.3.0.nupkg.sha512",
+        "simpleinjector.integration.aspnetcore.mvc.viewfeatures.nuspec",
+        "simpleinjector.png"
+      ]
+    },
+    "SimpleInjector.Integration.GenericHost/5.3.0": {
+      "sha512": "RDS3BZqTOHaDuJE68DH8lqIAFZ0GPqNb+wFwCUIdlnRxoIBHKu2lcgHj6CMSYMSvs1hjcrDilTE+15G5pY6tWw==",
+      "type": "package",
+      "path": "simpleinjector.integration.generichost/5.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SimpleInjector.Integration.GenericHost.dll",
+        "lib/netstandard2.0/SimpleInjector.Integration.GenericHost.xml",
+        "simpleinjector.integration.generichost.5.3.0.nupkg.sha512",
+        "simpleinjector.integration.generichost.nuspec",
+        "simpleinjector.png"
+      ]
+    },
+    "SimpleInjector.Integration.ServiceCollection/5.3.0": {
+      "sha512": "F8l8r/18JVdJSLMV/O2rwQz2wRXJ0o6Ibp01g1xV8P5TomfOwW02GpxQMG0uXeOxKZ6CZ/ILxx19iWbBIrmP4g==",
+      "type": "package",
+      "path": "simpleinjector.integration.servicecollection/5.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SimpleInjector.Integration.ServiceCollection.dll",
+        "lib/netstandard2.0/SimpleInjector.Integration.ServiceCollection.xml",
+        "simpleinjector.integration.servicecollection.5.3.0.nupkg.sha512",
+        "simpleinjector.integration.servicecollection.nuspec",
+        "simpleinjector.png"
+      ]
+    },
     "System.AppContext/4.3.0": {
       "sha512": "fKC+rmaLfeIzUhagxY17Q9siv/sPrjjKcfNg1Ic8IlQkZLipo8ljcaZQu4VtI4Jqbzjc2VTjzGLF6WmsRXAEgA==",
       "type": "package",
@@ -8815,6 +9039,65 @@
         "ref/xamarinwatchos10/_._",
         "system.collections.specialized.4.3.0.nupkg.sha512",
         "system.collections.specialized.nuspec"
+      ]
+    },
+    "System.ComponentModel/4.0.1": {
+      "sha512": "oBZFnm7seFiVfugsIyOvQCWobNZs7FzqDV/B7tx20Ep/l3UUFCPDkdTnCNaJZTU27zjeODmy2C/cP60u3D4c9w==",
+      "type": "package",
+      "path": "system.componentmodel/4.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/netcore50/System.ComponentModel.dll",
+        "lib/netstandard1.3/System.ComponentModel.dll",
+        "lib/portable-net45+win8+wp8+wpa81/_._",
+        "lib/win8/_._",
+        "lib/wp80/_._",
+        "lib/wpa81/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/netcore50/System.ComponentModel.dll",
+        "ref/netcore50/System.ComponentModel.xml",
+        "ref/netcore50/de/System.ComponentModel.xml",
+        "ref/netcore50/es/System.ComponentModel.xml",
+        "ref/netcore50/fr/System.ComponentModel.xml",
+        "ref/netcore50/it/System.ComponentModel.xml",
+        "ref/netcore50/ja/System.ComponentModel.xml",
+        "ref/netcore50/ko/System.ComponentModel.xml",
+        "ref/netcore50/ru/System.ComponentModel.xml",
+        "ref/netcore50/zh-hans/System.ComponentModel.xml",
+        "ref/netcore50/zh-hant/System.ComponentModel.xml",
+        "ref/netstandard1.0/System.ComponentModel.dll",
+        "ref/netstandard1.0/System.ComponentModel.xml",
+        "ref/netstandard1.0/de/System.ComponentModel.xml",
+        "ref/netstandard1.0/es/System.ComponentModel.xml",
+        "ref/netstandard1.0/fr/System.ComponentModel.xml",
+        "ref/netstandard1.0/it/System.ComponentModel.xml",
+        "ref/netstandard1.0/ja/System.ComponentModel.xml",
+        "ref/netstandard1.0/ko/System.ComponentModel.xml",
+        "ref/netstandard1.0/ru/System.ComponentModel.xml",
+        "ref/netstandard1.0/zh-hans/System.ComponentModel.xml",
+        "ref/netstandard1.0/zh-hant/System.ComponentModel.xml",
+        "ref/portable-net45+win8+wp8+wpa81/_._",
+        "ref/win8/_._",
+        "ref/wp80/_._",
+        "ref/wpa81/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.componentmodel.4.0.1.nupkg.sha512",
+        "system.componentmodel.nuspec"
       ]
     },
     "System.ComponentModel.Annotations/4.5.0": {
@@ -13122,6 +13405,7 @@
       "Microsoft.NETCore.App >= 2.2.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.3",
       "RepositoryPattern >= 1.0.0",
+      "SimpleInjector.Integration.AspNetCore.Mvc >= 5.3.0",
       "SingletonVsStatic >= 1.0.0"
     ]
   },
@@ -13218,6 +13502,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[2.2.3, )"
+          },
+          "SimpleInjector.Integration.AspNetCore.Mvc": {
+            "target": "Package",
+            "version": "[5.3.0, )"
           }
         },
         "imports": [

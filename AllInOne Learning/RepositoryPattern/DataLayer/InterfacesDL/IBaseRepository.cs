@@ -7,5 +7,7 @@ namespace RepositoryPattern
     public interface IBaseRepository<TEntity> where TEntity:class
     {
         IEnumerable<TEntity> GetAllData();
+        void Add(TEntity entity);
+        void Update(TEntity entity);
     }
 }

@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "50c2ae28ce3ace8648399692936396cfd4551be9"
+    "signature": "0657923df9d7e5bd48cdf1d5fbe21c372016d532"
   },
   "compilationOptions": {
     "defines": [
@@ -36,6 +36,7 @@
           "Microsoft.NETCore.App": "2.2.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.2.3",
           "RepositoryPattern": "1.0.0",
+          "SimpleInjector.Integration.AspNetCore.Mvc": "5.3.0",
           "SingletonVsStatic": "1.0.0"
         },
         "runtime": {
@@ -256,6 +257,129 @@
         },
         "compile": {
           "lib/netstandard1.6/NuGet.Frameworks.dll": {}
+        }
+      },
+      "SimpleInjector/5.3.0": {
+        "dependencies": {
+          "System.ComponentModel": "4.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SimpleInjector.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/SimpleInjector.dll": {}
+        }
+      },
+      "SimpleInjector.Integration.AspNetCore/5.3.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Hosting.Abstractions": "2.2.0",
+          "Microsoft.AspNetCore.Http": "2.2.2",
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
+          "SimpleInjector": "5.3.0",
+          "SimpleInjector.Integration.GenericHost": "5.3.0",
+          "SimpleInjector.Integration.ServiceCollection": "5.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.dll": {}
+        }
+      },
+      "SimpleInjector.Integration.AspNetCore.Mvc/5.3.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Razor": "2.2.0",
+          "Microsoft.AspNetCore.Mvc.RazorPages": "2.2.0",
+          "SimpleInjector": "5.3.0",
+          "SimpleInjector.Integration.AspNetCore.Mvc.ViewFeatures": "5.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.Mvc.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.Mvc.dll": {}
+        }
+      },
+      "SimpleInjector.Integration.AspNetCore.Mvc.Core/5.3.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.0",
+          "SimpleInjector": "5.3.0",
+          "SimpleInjector.Integration.AspNetCore": "5.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.Mvc.Core.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.Mvc.Core.dll": {}
+        }
+      },
+      "SimpleInjector.Integration.AspNetCore.Mvc.ViewFeatures/5.3.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.0",
+          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0",
+          "SimpleInjector": "5.3.0",
+          "SimpleInjector.Integration.AspNetCore.Mvc.Core": "5.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.Mvc.ViewFeatures.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/SimpleInjector.Integration.AspNetCore.Mvc.ViewFeatures.dll": {}
+        }
+      },
+      "SimpleInjector.Integration.GenericHost/5.3.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.2.0",
+          "Microsoft.Extensions.Hosting.Abstractions": "2.2.0",
+          "SimpleInjector": "5.3.0",
+          "SimpleInjector.Integration.ServiceCollection": "5.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SimpleInjector.Integration.GenericHost.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/SimpleInjector.Integration.GenericHost.dll": {}
+        }
+      },
+      "SimpleInjector.Integration.ServiceCollection/5.3.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.2.0",
+          "Microsoft.Extensions.Hosting.Abstractions": "2.2.0",
+          "Microsoft.Extensions.Localization.Abstractions": "2.2.0",
+          "Microsoft.Extensions.Logging.Abstractions": "2.2.0",
+          "SimpleInjector": "5.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SimpleInjector.Integration.ServiceCollection.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/SimpleInjector.Integration.ServiceCollection.dll": {}
+        }
+      },
+      "System.ComponentModel/4.0.1": {
+        "dependencies": {
+          "System.Runtime": "4.3.0"
         }
       },
       "System.Composition/1.0.31": {
@@ -3745,6 +3869,62 @@
       "sha512": "sha512-qbXaB76XYUVLocLBs8Z9TS/ERGK2wm797feO+0JEPFvT7o7MRadOR77mqaSD4J1k8G+DlZQyq+MlkCuxrkr3ag==",
       "path": "nuget.frameworks/4.7.0",
       "hashPath": "nuget.frameworks.4.7.0.nupkg.sha512"
+    },
+    "SimpleInjector/5.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6gDJplL8Qc7MH4Cj+944ufX/uw0LNQbS+0lFs99Bg8rHAcu/xn+y1+iH2Lkt517/BeQpy4Cqbm06uYmt47TpJQ==",
+      "path": "simpleinjector/5.3.0",
+      "hashPath": "simpleinjector.5.3.0.nupkg.sha512"
+    },
+    "SimpleInjector.Integration.AspNetCore/5.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4IQVu+ljtTwa5ybNVJrsZ2hhJVvCkJpnbCiRwSZLw54xid6Z75DVVtZVkxMVoHc2wfMjD4iv2Z9+bx1+nT/A1Q==",
+      "path": "simpleinjector.integration.aspnetcore/5.3.0",
+      "hashPath": "simpleinjector.integration.aspnetcore.5.3.0.nupkg.sha512"
+    },
+    "SimpleInjector.Integration.AspNetCore.Mvc/5.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lG2rdNqvxt94rMzygbHFLhDUelXMcpn+u5ecv4FUfU5nXjrBS3R2fsBJrvttiy+IGAE5Cp+HEciuUeESEk9U6w==",
+      "path": "simpleinjector.integration.aspnetcore.mvc/5.3.0",
+      "hashPath": "simpleinjector.integration.aspnetcore.mvc.5.3.0.nupkg.sha512"
+    },
+    "SimpleInjector.Integration.AspNetCore.Mvc.Core/5.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Z5Urr90UcwOU1OLry0l6vv6YB9HbJPtd50DNsMpipKzyDzWPr6m1gATRmdEC0WkUtGPELj61yd+7HpkJlFZSuA==",
+      "path": "simpleinjector.integration.aspnetcore.mvc.core/5.3.0",
+      "hashPath": "simpleinjector.integration.aspnetcore.mvc.core.5.3.0.nupkg.sha512"
+    },
+    "SimpleInjector.Integration.AspNetCore.Mvc.ViewFeatures/5.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qez9GFciXgEHhS/JXI7/rzX3wwTLiRbAuXbr6hj6nJ0TbGXbputHQqASesDlheOE4h+6dniOgPRDU9YJQD/qfQ==",
+      "path": "simpleinjector.integration.aspnetcore.mvc.viewfeatures/5.3.0",
+      "hashPath": "simpleinjector.integration.aspnetcore.mvc.viewfeatures.5.3.0.nupkg.sha512"
+    },
+    "SimpleInjector.Integration.GenericHost/5.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RDS3BZqTOHaDuJE68DH8lqIAFZ0GPqNb+wFwCUIdlnRxoIBHKu2lcgHj6CMSYMSvs1hjcrDilTE+15G5pY6tWw==",
+      "path": "simpleinjector.integration.generichost/5.3.0",
+      "hashPath": "simpleinjector.integration.generichost.5.3.0.nupkg.sha512"
+    },
+    "SimpleInjector.Integration.ServiceCollection/5.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-F8l8r/18JVdJSLMV/O2rwQz2wRXJ0o6Ibp01g1xV8P5TomfOwW02GpxQMG0uXeOxKZ6CZ/ILxx19iWbBIrmP4g==",
+      "path": "simpleinjector.integration.servicecollection/5.3.0",
+      "hashPath": "simpleinjector.integration.servicecollection.5.3.0.nupkg.sha512"
+    },
+    "System.ComponentModel/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oBZFnm7seFiVfugsIyOvQCWobNZs7FzqDV/B7tx20Ep/l3UUFCPDkdTnCNaJZTU27zjeODmy2C/cP60u3D4c9w==",
+      "path": "system.componentmodel/4.0.1",
+      "hashPath": "system.componentmodel.4.0.1.nupkg.sha512"
     },
     "System.Composition/1.0.31": {
       "type": "package",

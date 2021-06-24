@@ -21,5 +21,15 @@ namespace RepositoryPattern
             var result = _dbSet.ToList();
             return result;
         }
+        public void Add(TEntity entity)
+        {
+            _dbSet.Add(entity);
+            _dbContext.SaveChanges();
+        }
+        public void Update(TEntity entity)
+        {
+            _dbSet.Attach(entity);
+            _dbContext.SaveChanges();
+        }
     }
 }

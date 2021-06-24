@@ -1,11 +1,15 @@
 .DNBStyle p{
     margin-left:10px;
     font-size: 20px;
-    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    text-rendering:optimizeLegibility;
+    font-family: 'Segoe UI,SegoeUI,Helvetica Neue,Helvetica,Arial,sans-serif;';/*'Courier New', Courier, monospace;*/
+    
 }
 .DNBStyle li{
     font-size: 20px;
-    margin-top:10px;
+    margin-top:15px;
+    list-style: circle;
 }
 .DNBStyle li:nth-child(odd){
     color:black;

@@ -27,3 +27,11 @@ D:\.Net Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\All
 D:\.Net Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.pdb
 D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\RepositoryPattern.dll
 D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\RepositoryPattern.pdb
+D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\AllInOne Learning.Views.dll
+D:\.Net Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\AllInOne Learning.Views.pdb
+D:\.Net Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.TagHelpers.input.cache
+D:\.Net Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.TagHelpers.output.cache
+D:\.Net Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.RazorCoreGenerate.cache
+D:\.Net Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\Razor\Views\GoogleAPI\Index.g.cshtml.cs
+D:\.Net Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.RazorTargetAssemblyInfo.cs
+D:\.Net Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.Views.pdb

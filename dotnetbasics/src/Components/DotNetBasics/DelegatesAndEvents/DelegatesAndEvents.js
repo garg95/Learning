@@ -17,6 +17,7 @@ export default function DelegatesAndEvents(){
             <p>So event is an encapsulation over a delegate</p>
             <p>When we made use of event , it totally becomes publisher subscriber mechanism where publisher can send messages to subscribers but subscriber cannot touch publisher</p>
             <h3>Real life scenario</h3>
+            <p>It is used as request delegates in middlewares to invoke next middleware component</p>
         </div>
     )
 }

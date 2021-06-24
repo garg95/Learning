@@ -13,6 +13,7 @@ import JwtToken from './JWTToken/JwtToken';
 import Covariance from './CovarianceAndContravariance/CovarianceAndContraVariance';
 import CLR from './CLR/CLR';
 import Mvclifecycle from './MVCLifeCycle/MVCLifeCycle';
+import Middleware  from './Middleware/Middleware';
 class dotnetbasics extends Component {
     state = {
         topics: [
@@ -26,7 +27,8 @@ class dotnetbasics extends Component {
             { Name: 'Keywords', Path: '/dotnetbasics/keywords' },
             { Name: 'Covariance and Contravariance', Path: '/dotnetbasics/covariancecontra' },
             { Name: 'CLR', Path: '/dotnetbasics/clr' },
-            { Name: 'MVC Life Cycle', Path: '/dotnetbasics/mvclife' }
+            { Name: 'MVC Life Cycle', Path: '/dotnetbasics/mvclife' },
+            { Name: 'Middleware core', Path: '/dotnetbasics/middleware' }
         ]   
     }
     render() {
@@ -45,7 +47,8 @@ class dotnetbasics extends Component {
                         <Route path='/dotnetbasics/designpatterns' component={Designpatterns} />
                         <Route path='/dotnetbasics/covariancecontra' component={Covariance} />
                         <Route path='/dotnetbasics/clr' component={CLR} />
-                        <Route path='/dotnetbasics/mvclife' component={Mvclifecycle} />
+                        <Route path='/dotnetbasics/mvclife' component={Mvclifecycle} />]
+                        <Route path='/dotnetbasics/middleware' component={Middleware} />
                     </Switch>
                 </div>
             </>

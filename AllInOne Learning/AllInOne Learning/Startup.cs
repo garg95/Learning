@@ -15,14 +15,22 @@ using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Logging;
 using Microsoft.IdentityModel.Tokens;
 using AllInOne_Learning.ExtensionsForConfigureServices;
+using AllInOne_Learning.Middlewares;
+using SimpleInjector;
+using RepositoryPattern.DataLayer.InterfacesDL;
+using RepositoryPattern.DataLayer;
+using SimpleInjector.Lifestyles;
+using RepositoryPattern;
 
 namespace AllInOne_Learning
 {
     public class Startup
     {
+        Container container = null;
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            container = new Container(); //waste
         }
 
         public IConfiguration Configuration { get; }
@@ -38,13 +46,18 @@ namespace AllInOne_Learning
             services.GetDependencyInjection(Configuration);
             #endregion
 
+            //not working
+            //container.Options.DefaultScopedLifestyle = new AsyncScopedLifestyle();
+            //container.Register<GenericDbContext>(Lifestyle.Scoped);
+            //container.Register<IRequestDL, RequestDL>(Lifestyle.Scoped);
+            //services.UseSimpleInjectorAspNetRequestScoping(container);
+
             services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
             {
                 builder.AllowAnyOrigin()
                        .AllowAnyMethod()
                        .AllowAnyHeader();
-            }));
-
+            })); 
             //this basically simplifies the exception that occurred while creating token in GenerateJWTToken class
             //Error occurred due to small length of the secret key.
             IdentityModelEventSource.ShowPII = true; 
@@ -53,6 +66,10 @@ namespace AllInOne_Learning
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
+            
+            
+
+            app.RequestLogger();  //implement this
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -62,10 +79,13 @@ namespace AllInOne_Learning
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
+            
             app.UseAuthentication();
             app.UseCors("MyPolicy");
             app.UseHttpsRedirection();
             app.UseMvc();
+            //container.Verify();  //not working
+            //app.UseEndpoints
         }
     }
 }

@@ -23,6 +23,7 @@ namespace AllInOne_Learning.ExtensionsForConfigureServices
             services.AddDbContext<GenericDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("Default")));
             services.AddScoped<ICustomerDL, CustomerDL>();
             services.AddScoped<IOrdersDL, OrdersDL>();
+            services.AddScoped<IRequestDL, RequestDL>();
             return services;
         }
     }
