@@ -121,6 +121,11 @@ export default function SqlInterview(){
             <h3>What is @@rowcount and coalesce</h3>
             <p><b>Coalesce: </b>The COALESCE() function returns the first non-null value in a list. Priority is from left to right. </p>
             <p><b>/@/@rowcount: </b>It gives the number of affected rows.</p>
+            <hr/>
+            <h3>What is the scope of CTE?</h3>
+            <p>CTE stands for common table expression. A CTE allows you to define a temporary named result set that available temporarily in the execution scope of a statement such as SELECT, INSERT, UPDATE, DELETE, or MERGE.</p>
+            <hr/>
+            <h3>Execution plan?</h3>
         </div>
     )
 }

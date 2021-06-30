@@ -1,13 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AllInOne_Learning.Controllers
 {
-    [Authorize]
+    //[Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class ValuesController : ControllerBase
@@ -16,6 +17,8 @@ namespace AllInOne_Learning.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
+            //Task.Delay(5000);
+            Thread.Sleep(5000);
             return new string[] { "value1", "value2" };
         }
 

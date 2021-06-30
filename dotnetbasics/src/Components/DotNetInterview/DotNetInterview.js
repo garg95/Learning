@@ -104,6 +104,10 @@ export default function DotNetInterview(){
             <p>A replay attack (also known as playback attack) is a form of network attack in which valid data transmission is maliciously or fraudulently repeated or delayed</p>
             <p>Suppose Alice wants to prove her identity to Bob. Bob requests her password as proof of identity, which Alice dutifully provides (possibly after some transformation like hashing (or even salting) the password); meanwhile, Eve is eavesdropping on the conversation and keeps the password (or the hash). After the interchange is over, Eve (acting as Alice) connects to Bob; when asked for proof of identity, Eve sends Alice's password (or hash) read from the last session which Bob accepts, thus granting Eve access.</p>
             <p><b>Countermeasures:</b>Replay attacks can be prevented by tagging each encrypted component with a session ID and a component number.</p>
+            <hr/>
+            <h3>What is antiforgery token?</h3>
+            <hr/>
+            <h3>Why we need delete put patch , when we can perform alll operation with httppost?</h3>
         </div>
     )
 }

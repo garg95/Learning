@@ -15,6 +15,8 @@ import memoization from '../../Assets/Interview/memoization.PNG';
 import regc from '../../Assets/Interview/regc.PNG';
 import arrowc from '../../Assets/Interview/arrowc.PNG';
 import destructure from '../../Assets/Interview/destructure.PNG';
+import superPrp from '../../Assets/Interview/super-props.PNG';
+import superPrp1 from '../../Assets/Interview/super-props1.PNG';
 export default function ReactInterview(){
     function currying(fn){
         return function(a,c){
@@ -111,6 +113,22 @@ export default function ReactInterview(){
             <hr/>
             <h3>What is Object Destructuring?</h3>
             <img src={destructure} alt="" />
+            <hr/>
+            <h3>Why we use super(props) in constructor?</h3>
+            <img src={superPrp} alt="" />
+            <h3>Can we use super() instead of super(props)?</h3>
+            <p>So even if you forget to pass props to super(), React would still set them right afterwards. There is a reason for that.</p>
+            <p>React would later assign this.props after your constructor has run. But this.props would still be undefined between the super call and the end of your constructor:</p>
+            <img src={superPrp1} alt="" />
+            <hr/>
+            <h3>What is the difference between promise and observable?</h3>
+            <p><b>Promise :</b> A Promise handles a single event when an async operation completes or fails.</p>
+            <p><b>Observable: </b>An Observable is like a Stream (in many languages) and allows to pass zero or more events where the callback is called for each event.
+            Often Observable is preferred over Promise because it provides the features of Promise and more. With Observable it doesn't matter if you want to handle 0, 1, or multiple events. You can utilize the same API in each case.
+            Observable also has the advantage over Promise to be cancellable. If the result of an HTTP request to a server or some other expensive async operation isn't needed anymore, the Subscription of an Observable allows to cancel the subscription, while a Promise will eventually call the success or failed callback even when you don't need the notification or the result it provides anymore.</p>
+
+            <p>While a Promise starts immediately, an Observable only starts if you subscribe to it. This is why Observables are called lazy.</p>
+            <p>Observable provides operators like map, forEach, reduce, ... similar to an array</p>
         </div>
     )
 }
