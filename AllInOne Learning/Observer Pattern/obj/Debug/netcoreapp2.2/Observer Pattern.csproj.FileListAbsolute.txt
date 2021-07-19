@@ -9,3 +9,14 @@ D:\.Net Learning\AllInOne Learning\Observer Pattern\obj\Debug\netcoreapp2.2\Obse
 D:\.Net Learning\AllInOne Learning\Observer Pattern\obj\Debug\netcoreapp2.2\Observer Pattern.AssemblyInfo.cs
 D:\.Net Learning\AllInOne Learning\Observer Pattern\obj\Debug\netcoreapp2.2\Observer Pattern.dll
 D:\.Net Learning\AllInOne Learning\Observer Pattern\obj\Debug\netcoreapp2.2\Observer Pattern.pdb
+F:\zzzzz learning\Learning\AllInOne Learning\Observer Pattern\bin\Debug\netcoreapp2.2\Observer Pattern.deps.json
+F:\zzzzz learning\Learning\AllInOne Learning\Observer Pattern\bin\Debug\netcoreapp2.2\Observer Pattern.runtimeconfig.json
+F:\zzzzz learning\Learning\AllInOne Learning\Observer Pattern\bin\Debug\netcoreapp2.2\Observer Pattern.runtimeconfig.dev.json
+F:\zzzzz learning\Learning\AllInOne Learning\Observer Pattern\bin\Debug\netcoreapp2.2\Observer Pattern.dll
+F:\zzzzz learning\Learning\AllInOne Learning\Observer Pattern\bin\Debug\netcoreapp2.2\Observer Pattern.pdb
+F:\zzzzz learning\Learning\AllInOne Learning\Observer Pattern\obj\Debug\netcoreapp2.2\Observer Pattern.csprojAssemblyReference.cache
+F:\zzzzz learning\Learning\AllInOne Learning\Observer Pattern\obj\Debug\netcoreapp2.2\Observer Pattern.csproj.CoreCompileInputs.cache
+F:\zzzzz learning\Learning\AllInOne Learning\Observer Pattern\obj\Debug\netcoreapp2.2\Observer Pattern.AssemblyInfoInputs.cache
+F:\zzzzz learning\Learning\AllInOne Learning\Observer Pattern\obj\Debug\netcoreapp2.2\Observer Pattern.AssemblyInfo.cs
+F:\zzzzz learning\Learning\AllInOne Learning\Observer Pattern\obj\Debug\netcoreapp2.2\Observer Pattern.dll
+F:\zzzzz learning\Learning\AllInOne Learning\Observer Pattern\obj\Debug\netcoreapp2.2\Observer Pattern.pdb

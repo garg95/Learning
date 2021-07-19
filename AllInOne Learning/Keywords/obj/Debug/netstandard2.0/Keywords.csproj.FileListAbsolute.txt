@@ -7,3 +7,12 @@ D:\.Net Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.As
 D:\.Net Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.dll
 D:\.Net Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.pdb
 D:\.Net Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.csprojAssemblyReference.cache
+F:\zzzzz learning\Learning\AllInOne Learning\Keywords\bin\Debug\netstandard2.0\Keywords.deps.json
+F:\zzzzz learning\Learning\AllInOne Learning\Keywords\bin\Debug\netstandard2.0\Keywords.dll
+F:\zzzzz learning\Learning\AllInOne Learning\Keywords\bin\Debug\netstandard2.0\Keywords.pdb
+F:\zzzzz learning\Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.csprojAssemblyReference.cache
+F:\zzzzz learning\Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.csproj.CoreCompileInputs.cache
+F:\zzzzz learning\Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.AssemblyInfoInputs.cache
+F:\zzzzz learning\Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.AssemblyInfo.cs
+F:\zzzzz learning\Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.dll
+F:\zzzzz learning\Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.pdb

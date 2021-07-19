@@ -9,3 +9,14 @@ D:\.Net Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.AssemblyI
 D:\.Net Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.AssemblyInfo.cs
 D:\.Net Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.dll
 D:\.Net Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.pdb
+F:\zzzzz learning\Learning\AllInOne Learning\Locks\bin\Debug\netcoreapp2.2\Locks.deps.json
+F:\zzzzz learning\Learning\AllInOne Learning\Locks\bin\Debug\netcoreapp2.2\Locks.runtimeconfig.json
+F:\zzzzz learning\Learning\AllInOne Learning\Locks\bin\Debug\netcoreapp2.2\Locks.runtimeconfig.dev.json
+F:\zzzzz learning\Learning\AllInOne Learning\Locks\bin\Debug\netcoreapp2.2\Locks.dll
+F:\zzzzz learning\Learning\AllInOne Learning\Locks\bin\Debug\netcoreapp2.2\Locks.pdb
+F:\zzzzz learning\Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.csprojAssemblyReference.cache
+F:\zzzzz learning\Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.csproj.CoreCompileInputs.cache
+F:\zzzzz learning\Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.AssemblyInfoInputs.cache
+F:\zzzzz learning\Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.AssemblyInfo.cs
+F:\zzzzz learning\Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.dll
+F:\zzzzz learning\Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.pdb

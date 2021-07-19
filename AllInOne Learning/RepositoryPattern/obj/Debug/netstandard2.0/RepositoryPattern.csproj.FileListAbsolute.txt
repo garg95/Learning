@@ -7,3 +7,12 @@ D:\.Net Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\Re
 D:\.Net Learning\AllInOne Learning\RepositoryPattern\bin\Debug\netstandard2.0\RepositoryPattern.pdb
 D:\.Net Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.dll
 D:\.Net Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.pdb
+F:\zzzzz learning\Learning\AllInOne Learning\RepositoryPattern\bin\Debug\netstandard2.0\RepositoryPattern.deps.json
+F:\zzzzz learning\Learning\AllInOne Learning\RepositoryPattern\bin\Debug\netstandard2.0\RepositoryPattern.dll
+F:\zzzzz learning\Learning\AllInOne Learning\RepositoryPattern\bin\Debug\netstandard2.0\RepositoryPattern.pdb
+F:\zzzzz learning\Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.csprojAssemblyReference.cache
+F:\zzzzz learning\Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.csproj.CoreCompileInputs.cache
+F:\zzzzz learning\Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.AssemblyInfoInputs.cache
+F:\zzzzz learning\Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.AssemblyInfo.cs
+F:\zzzzz learning\Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.dll
+F:\zzzzz learning\Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.pdb

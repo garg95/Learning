@@ -9,3 +9,14 @@ D:\.Net Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailSer
 D:\.Net Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.dll
 D:\.Net Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.pdb
 D:\.Net Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.csprojAssemblyReference.cache
+F:\zzzzz learning\Learning\AllInOne Learning\EmailService\bin\Debug\netcoreapp2.2\EmailService.deps.json
+F:\zzzzz learning\Learning\AllInOne Learning\EmailService\bin\Debug\netcoreapp2.2\EmailService.runtimeconfig.json
+F:\zzzzz learning\Learning\AllInOne Learning\EmailService\bin\Debug\netcoreapp2.2\EmailService.runtimeconfig.dev.json
+F:\zzzzz learning\Learning\AllInOne Learning\EmailService\bin\Debug\netcoreapp2.2\EmailService.dll
+F:\zzzzz learning\Learning\AllInOne Learning\EmailService\bin\Debug\netcoreapp2.2\EmailService.pdb
+F:\zzzzz learning\Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.csprojAssemblyReference.cache
+F:\zzzzz learning\Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.csproj.CoreCompileInputs.cache
+F:\zzzzz learning\Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.AssemblyInfoInputs.cache
+F:\zzzzz learning\Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.AssemblyInfo.cs
+F:\zzzzz learning\Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.dll
+F:\zzzzz learning\Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.pdb

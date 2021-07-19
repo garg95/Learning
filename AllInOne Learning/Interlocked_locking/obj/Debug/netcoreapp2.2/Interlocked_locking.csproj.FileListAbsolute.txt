@@ -9,3 +9,14 @@ D:\.Net Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\I
 D:\.Net Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.AssemblyInfo.cs
 D:\.Net Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.dll
 D:\.Net Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.pdb
+F:\zzzzz learning\Learning\AllInOne Learning\Interlocked_locking\bin\Debug\netcoreapp2.2\Interlocked_locking.deps.json
+F:\zzzzz learning\Learning\AllInOne Learning\Interlocked_locking\bin\Debug\netcoreapp2.2\Interlocked_locking.runtimeconfig.json
+F:\zzzzz learning\Learning\AllInOne Learning\Interlocked_locking\bin\Debug\netcoreapp2.2\Interlocked_locking.runtimeconfig.dev.json
+F:\zzzzz learning\Learning\AllInOne Learning\Interlocked_locking\bin\Debug\netcoreapp2.2\Interlocked_locking.dll
+F:\zzzzz learning\Learning\AllInOne Learning\Interlocked_locking\bin\Debug\netcoreapp2.2\Interlocked_locking.pdb
+F:\zzzzz learning\Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.csprojAssemblyReference.cache
+F:\zzzzz learning\Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.csproj.CoreCompileInputs.cache
+F:\zzzzz learning\Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.AssemblyInfoInputs.cache
+F:\zzzzz learning\Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.AssemblyInfo.cs
+F:\zzzzz learning\Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.dll
+F:\zzzzz learning\Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.pdb

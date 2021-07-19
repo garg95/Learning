@@ -7,3 +7,12 @@ D:\.Net Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\Si
 D:\.Net Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.dll
 D:\.Net Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.pdb
 D:\.Net Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.csprojAssemblyReference.cache
+F:\zzzzz learning\Learning\AllInOne Learning\SingletonVsStatic\bin\Debug\netstandard2.0\SingletonVsStatic.deps.json
+F:\zzzzz learning\Learning\AllInOne Learning\SingletonVsStatic\bin\Debug\netstandard2.0\SingletonVsStatic.dll
+F:\zzzzz learning\Learning\AllInOne Learning\SingletonVsStatic\bin\Debug\netstandard2.0\SingletonVsStatic.pdb
+F:\zzzzz learning\Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.csprojAssemblyReference.cache
+F:\zzzzz learning\Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.csproj.CoreCompileInputs.cache
+F:\zzzzz learning\Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.AssemblyInfoInputs.cache
+F:\zzzzz learning\Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.AssemblyInfo.cs
+F:\zzzzz learning\Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.dll
+F:\zzzzz learning\Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.pdb

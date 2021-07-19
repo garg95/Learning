@@ -57,7 +57,10 @@ namespace AllInOne_Learning
                 builder.AllowAnyOrigin()
                        .AllowAnyMethod()
                        .AllowAnyHeader();
-            })); 
+            }));
+            services.AddSession(options => {
+                options.IdleTimeout = TimeSpan.FromMinutes(5);
+            });
             //this basically simplifies the exception that occurred while creating token in GenerateJWTToken class
             //Error occurred due to small length of the secret key.
             IdentityModelEventSource.ShowPII = true; 
@@ -69,7 +72,7 @@ namespace AllInOne_Learning
             
             
 
-            app.RequestLogger();  //implement this
+            //app.RequestLogger();  //implement this
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -83,6 +86,7 @@ namespace AllInOne_Learning
             app.UseAuthentication();
             app.UseCors("MyPolicy");
             app.UseHttpsRedirection();
+            app.UseSession();
             app.UseMvc();
             //container.Verify();  //not working
             //app.UseEndpoints

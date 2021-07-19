@@ -9,3 +9,14 @@ D:\.Net Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest
 D:\.Net Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.AssemblyInfo.cs
 D:\.Net Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.dll
 D:\.Net Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.pdb
+F:\zzzzz learning\Learning\AllInOne Learning\WebRequest\bin\Debug\netcoreapp2.2\WebRequest.deps.json
+F:\zzzzz learning\Learning\AllInOne Learning\WebRequest\bin\Debug\netcoreapp2.2\WebRequest.runtimeconfig.json
+F:\zzzzz learning\Learning\AllInOne Learning\WebRequest\bin\Debug\netcoreapp2.2\WebRequest.runtimeconfig.dev.json
+F:\zzzzz learning\Learning\AllInOne Learning\WebRequest\bin\Debug\netcoreapp2.2\WebRequest.dll
+F:\zzzzz learning\Learning\AllInOne Learning\WebRequest\bin\Debug\netcoreapp2.2\WebRequest.pdb
+F:\zzzzz learning\Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.csprojAssemblyReference.cache
+F:\zzzzz learning\Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.csproj.CoreCompileInputs.cache
+F:\zzzzz learning\Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.AssemblyInfoInputs.cache
+F:\zzzzz learning\Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.AssemblyInfo.cs
+F:\zzzzz learning\Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.dll
+F:\zzzzz learning\Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.pdb

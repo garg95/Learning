@@ -2572,23 +2572,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vishal.garg\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Shin\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Net Learning\\AllInOne Learning\\RepositoryPattern\\RepositoryPattern.csproj",
+      "projectUniqueName": "F:\\zzzzz learning\\Learning\\AllInOne Learning\\RepositoryPattern\\RepositoryPattern.csproj",
       "projectName": "RepositoryPattern",
-      "projectPath": "D:\\.Net Learning\\AllInOne Learning\\RepositoryPattern\\RepositoryPattern.csproj",
-      "packagesPath": "C:\\Users\\vishal.garg\\.nuget\\packages\\",
-      "outputPath": "D:\\.Net Learning\\AllInOne Learning\\RepositoryPattern\\obj\\",
+      "projectPath": "F:\\zzzzz learning\\Learning\\AllInOne Learning\\RepositoryPattern\\RepositoryPattern.csproj",
+      "packagesPath": "C:\\Users\\Shin\\.nuget\\packages\\",
+      "outputPath": "F:\\zzzzz learning\\Learning\\AllInOne Learning\\RepositoryPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\vishal.garg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Shin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2596,9 +2596,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\New folder": {},
-        "http://livecareernuget.azurewebsites.net/nuget/": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/vishalgarg95/DemoFeed/_packaging/DemoProj/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {

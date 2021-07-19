@@ -9,3 +9,14 @@ D:\.Net Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.Ass
 D:\.Net Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.AssemblyInfo.cs
 D:\.Net Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.dll
 D:\.Net Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.pdb
+F:\zzzzz learning\Learning\AllInOne Learning\Deadlock\bin\Debug\netcoreapp2.2\Deadlock.deps.json
+F:\zzzzz learning\Learning\AllInOne Learning\Deadlock\bin\Debug\netcoreapp2.2\Deadlock.runtimeconfig.json
+F:\zzzzz learning\Learning\AllInOne Learning\Deadlock\bin\Debug\netcoreapp2.2\Deadlock.runtimeconfig.dev.json
+F:\zzzzz learning\Learning\AllInOne Learning\Deadlock\bin\Debug\netcoreapp2.2\Deadlock.dll
+F:\zzzzz learning\Learning\AllInOne Learning\Deadlock\bin\Debug\netcoreapp2.2\Deadlock.pdb
+F:\zzzzz learning\Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.csprojAssemblyReference.cache
+F:\zzzzz learning\Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.csproj.CoreCompileInputs.cache
+F:\zzzzz learning\Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.AssemblyInfoInputs.cache
+F:\zzzzz learning\Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.AssemblyInfo.cs
+F:\zzzzz learning\Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.dll
+F:\zzzzz learning\Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.pdb
