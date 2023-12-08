@@ -20,3 +20,16 @@ F:\zzzzz learning\Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.
 F:\zzzzz learning\Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.AssemblyInfo.cs
 F:\zzzzz learning\Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.dll
 F:\zzzzz learning\Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\EmailService\bin\Debug\netcoreapp2.2\EmailService.deps.json
+E:\zzz Old projects\Learning\AllInOne Learning\EmailService\bin\Debug\netcoreapp2.2\EmailService.runtimeconfig.json
+E:\zzz Old projects\Learning\AllInOne Learning\EmailService\bin\Debug\netcoreapp2.2\EmailService.runtimeconfig.dev.json
+E:\zzz Old projects\Learning\AllInOne Learning\EmailService\bin\Debug\netcoreapp2.2\EmailService.dll
+E:\zzz Old projects\Learning\AllInOne Learning\EmailService\bin\Debug\netcoreapp2.2\EmailService.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.csproj.AssemblyReference.cache
+E:\zzz Old projects\Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+E:\zzz Old projects\Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.AssemblyInfoInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.AssemblyInfo.cs
+E:\zzz Old projects\Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.csproj.CoreCompileInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.dll
+E:\zzz Old projects\Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\EmailService\obj\Debug\netcoreapp2.2\EmailService.genruntimeconfig.cache

@@ -19,14 +19,31 @@ namespace EmailService
                 mailMessage.Subject = "Here comes the email";
                 mailMessage.IsBodyHtml = false;
                 SmtpClient smtpClient = new SmtpClient();
-                smtpClient.Port = 25; //587
+                smtpClient.Port = 587; // 25
                 smtpClient.Host = "smtp.gmail.com";
                 smtpClient.EnableSsl = true;
                 smtpClient.UseDefaultCredentials = false;
-                smtpClient.Credentials = new NetworkCredential("garg.vishu95@gmail.com", "Bornsince1995");
+                smtpClient.Credentials = new NetworkCredential("garg.vishu95@gmail.com", "Shinchan@123");
                 smtpClient.DeliveryMethod = SmtpDeliveryMethod.Network;
                 smtpClient.Send(mailMessage);
-                
+
+                using (MailMessage mail = new MailMessage())
+                {
+                    mail.From = new MailAddress("garg.vishu95@gmail.com");
+                    mail.To.Add("garg.vishal97@yahoo.com");
+                    mail.Subject = "Hello World";
+                    mail.Body = "<h1>Hello</h1>";
+                    mail.IsBodyHtml = true;
+                    //.Attachments.Add(new Attachment("C:\\file.zip"));
+
+                    using (SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587))
+                    {
+                        smtp.Credentials = new NetworkCredential("garg.vishu95@gmail.com", "Shinchan@123");
+                        smtp.EnableSsl = true;
+                        smtp.Send(mail);
+                    }
+                }
+
             }
             catch (Exception ex)
             {

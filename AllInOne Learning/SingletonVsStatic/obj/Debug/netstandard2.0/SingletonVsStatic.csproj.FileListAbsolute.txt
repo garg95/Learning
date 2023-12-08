@@ -16,3 +16,12 @@ F:\zzzzz learning\Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstan
 F:\zzzzz learning\Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.AssemblyInfo.cs
 F:\zzzzz learning\Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.dll
 F:\zzzzz learning\Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\SingletonVsStatic\bin\Debug\netstandard2.0\SingletonVsStatic.deps.json
+E:\zzz Old projects\Learning\AllInOne Learning\SingletonVsStatic\bin\Debug\netstandard2.0\SingletonVsStatic.dll
+E:\zzz Old projects\Learning\AllInOne Learning\SingletonVsStatic\bin\Debug\netstandard2.0\SingletonVsStatic.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.GeneratedMSBuildEditorConfig.editorconfig
+E:\zzz Old projects\Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.AssemblyInfoInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.AssemblyInfo.cs
+E:\zzz Old projects\Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.csproj.CoreCompileInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.dll
+E:\zzz Old projects\Learning\AllInOne Learning\SingletonVsStatic\obj\Debug\netstandard2.0\SingletonVsStatic.pdb

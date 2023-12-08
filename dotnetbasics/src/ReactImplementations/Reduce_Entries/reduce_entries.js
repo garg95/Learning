@@ -4,20 +4,27 @@ export default class reduce_entries extends React.Component {
     state = {
         registry: null,
         reducedRegistry: null,
-        entriesRegistry: null
+        entriesRegistry: null,
+        justTest:null
     }
+    shouldComponentUpdate(){
+        return true;
+    }
+    
     load = () => {
         let reg = new Map(); //reg.has(key) returns true or false //reg.get(key) --value is returned //reg.set
         reg.set(1, { Id: '1', Name: 'Vishal' });
         reg.set(2, { Id: '2', Name: 'Garg' });
         reg.set(3, { Id: '1', Name: 'Rahul' });
         reg.set(4, { Id: '2', Name: 'Sureh' });
+        reg.set(5,{ Id: '3', Name: 'Sharma' })
         const arr = Array.from(reg.values()).sort((a,b)=> b.Id-a.Id);
         console.log(arr);
         
         this.setState({
             registry: arr
         });
+
     }
     showc = () => {
         const grouped = this.state.registry.reduce((activities, activity) => {
@@ -49,7 +56,6 @@ export default class reduce_entries extends React.Component {
                 <br/>
                 <button onClick={this.load}>1 Load data</button>
                 <button onClick={this.showc}>2 Show Reduce functionality</button>
-
                 <button onClick={this.entriesc}>3 Entries funcitonality</button>
                 {this.state.entriesRegistry && this.state.entriesRegistry.map(([id, val]) => {
                     return (

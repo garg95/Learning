@@ -20,3 +20,16 @@ F:\zzzzz learning\Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\
 F:\zzzzz learning\Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.AssemblyInfo.cs
 F:\zzzzz learning\Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.dll
 F:\zzzzz learning\Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\WebRequest\bin\Debug\netcoreapp2.2\WebRequest.deps.json
+E:\zzz Old projects\Learning\AllInOne Learning\WebRequest\bin\Debug\netcoreapp2.2\WebRequest.runtimeconfig.json
+E:\zzz Old projects\Learning\AllInOne Learning\WebRequest\bin\Debug\netcoreapp2.2\WebRequest.runtimeconfig.dev.json
+E:\zzz Old projects\Learning\AllInOne Learning\WebRequest\bin\Debug\netcoreapp2.2\WebRequest.dll
+E:\zzz Old projects\Learning\AllInOne Learning\WebRequest\bin\Debug\netcoreapp2.2\WebRequest.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.csproj.AssemblyReference.cache
+E:\zzz Old projects\Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.GeneratedMSBuildEditorConfig.editorconfig
+E:\zzz Old projects\Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.AssemblyInfoInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.AssemblyInfo.cs
+E:\zzz Old projects\Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.csproj.CoreCompileInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.dll
+E:\zzz Old projects\Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\WebRequest\obj\Debug\netcoreapp2.2\WebRequest.genruntimeconfig.cache

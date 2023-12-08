@@ -20,3 +20,16 @@ F:\zzzzz learning\Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\De
 F:\zzzzz learning\Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.AssemblyInfo.cs
 F:\zzzzz learning\Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.dll
 F:\zzzzz learning\Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\Deadlock\bin\Debug\netcoreapp2.2\Deadlock.deps.json
+E:\zzz Old projects\Learning\AllInOne Learning\Deadlock\bin\Debug\netcoreapp2.2\Deadlock.runtimeconfig.json
+E:\zzz Old projects\Learning\AllInOne Learning\Deadlock\bin\Debug\netcoreapp2.2\Deadlock.runtimeconfig.dev.json
+E:\zzz Old projects\Learning\AllInOne Learning\Deadlock\bin\Debug\netcoreapp2.2\Deadlock.dll
+E:\zzz Old projects\Learning\AllInOne Learning\Deadlock\bin\Debug\netcoreapp2.2\Deadlock.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.csproj.AssemblyReference.cache
+E:\zzz Old projects\Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.GeneratedMSBuildEditorConfig.editorconfig
+E:\zzz Old projects\Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.AssemblyInfoInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.AssemblyInfo.cs
+E:\zzz Old projects\Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.csproj.CoreCompileInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.dll
+E:\zzz Old projects\Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\Deadlock\obj\Debug\netcoreapp2.2\Deadlock.genruntimeconfig.cache

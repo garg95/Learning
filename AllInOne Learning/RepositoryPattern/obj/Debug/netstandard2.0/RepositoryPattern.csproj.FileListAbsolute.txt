@@ -16,3 +16,13 @@ F:\zzzzz learning\Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstan
 F:\zzzzz learning\Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.AssemblyInfo.cs
 F:\zzzzz learning\Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.dll
 F:\zzzzz learning\Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\RepositoryPattern\bin\Debug\netstandard2.0\RepositoryPattern.deps.json
+E:\zzz Old projects\Learning\AllInOne Learning\RepositoryPattern\bin\Debug\netstandard2.0\RepositoryPattern.dll
+E:\zzz Old projects\Learning\AllInOne Learning\RepositoryPattern\bin\Debug\netstandard2.0\RepositoryPattern.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.csproj.AssemblyReference.cache
+E:\zzz Old projects\Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\zzz Old projects\Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.AssemblyInfoInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.AssemblyInfo.cs
+E:\zzz Old projects\Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.csproj.CoreCompileInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.dll
+E:\zzz Old projects\Learning\AllInOne Learning\RepositoryPattern\obj\Debug\netstandard2.0\RepositoryPattern.pdb

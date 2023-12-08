@@ -16,3 +16,13 @@ F:\zzzzz learning\Learning\AllInOne Learning\CloudinaryImageUpload\obj\Debug\net
 F:\zzzzz learning\Learning\AllInOne Learning\CloudinaryImageUpload\obj\Debug\netstandard2.0\CloudinaryImageUpload.AssemblyInfo.cs
 F:\zzzzz learning\Learning\AllInOne Learning\CloudinaryImageUpload\obj\Debug\netstandard2.0\CloudinaryImageUpload.dll
 F:\zzzzz learning\Learning\AllInOne Learning\CloudinaryImageUpload\obj\Debug\netstandard2.0\CloudinaryImageUpload.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\CloudinaryImageUpload\bin\Debug\netstandard2.0\CloudinaryImageUpload.deps.json
+E:\zzz Old projects\Learning\AllInOne Learning\CloudinaryImageUpload\bin\Debug\netstandard2.0\CloudinaryImageUpload.dll
+E:\zzz Old projects\Learning\AllInOne Learning\CloudinaryImageUpload\bin\Debug\netstandard2.0\CloudinaryImageUpload.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\CloudinaryImageUpload\obj\Debug\netstandard2.0\CloudinaryImageUpload.csproj.AssemblyReference.cache
+E:\zzz Old projects\Learning\AllInOne Learning\CloudinaryImageUpload\obj\Debug\netstandard2.0\CloudinaryImageUpload.GeneratedMSBuildEditorConfig.editorconfig
+E:\zzz Old projects\Learning\AllInOne Learning\CloudinaryImageUpload\obj\Debug\netstandard2.0\CloudinaryImageUpload.AssemblyInfoInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\CloudinaryImageUpload\obj\Debug\netstandard2.0\CloudinaryImageUpload.AssemblyInfo.cs
+E:\zzz Old projects\Learning\AllInOne Learning\CloudinaryImageUpload\obj\Debug\netstandard2.0\CloudinaryImageUpload.csproj.CoreCompileInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\CloudinaryImageUpload\obj\Debug\netstandard2.0\CloudinaryImageUpload.dll
+E:\zzz Old projects\Learning\AllInOne Learning\CloudinaryImageUpload\obj\Debug\netstandard2.0\CloudinaryImageUpload.pdb

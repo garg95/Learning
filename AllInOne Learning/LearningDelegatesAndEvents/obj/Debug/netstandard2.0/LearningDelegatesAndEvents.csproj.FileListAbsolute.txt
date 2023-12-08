@@ -16,3 +16,13 @@ F:\zzzzz learning\Learning\AllInOne Learning\LearningDelegatesAndEvents\obj\Debu
 F:\zzzzz learning\Learning\AllInOne Learning\LearningDelegatesAndEvents\obj\Debug\netstandard2.0\LearningDelegatesAndEvents.AssemblyInfo.cs
 F:\zzzzz learning\Learning\AllInOne Learning\LearningDelegatesAndEvents\obj\Debug\netstandard2.0\LearningDelegatesAndEvents.dll
 F:\zzzzz learning\Learning\AllInOne Learning\LearningDelegatesAndEvents\obj\Debug\netstandard2.0\LearningDelegatesAndEvents.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\LearningDelegatesAndEvents\bin\Debug\netstandard2.0\LearningDelegatesAndEvents.deps.json
+E:\zzz Old projects\Learning\AllInOne Learning\LearningDelegatesAndEvents\bin\Debug\netstandard2.0\LearningDelegatesAndEvents.dll
+E:\zzz Old projects\Learning\AllInOne Learning\LearningDelegatesAndEvents\bin\Debug\netstandard2.0\LearningDelegatesAndEvents.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\LearningDelegatesAndEvents\obj\Debug\netstandard2.0\LearningDelegatesAndEvents.csproj.AssemblyReference.cache
+E:\zzz Old projects\Learning\AllInOne Learning\LearningDelegatesAndEvents\obj\Debug\netstandard2.0\LearningDelegatesAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+E:\zzz Old projects\Learning\AllInOne Learning\LearningDelegatesAndEvents\obj\Debug\netstandard2.0\LearningDelegatesAndEvents.AssemblyInfoInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\LearningDelegatesAndEvents\obj\Debug\netstandard2.0\LearningDelegatesAndEvents.AssemblyInfo.cs
+E:\zzz Old projects\Learning\AllInOne Learning\LearningDelegatesAndEvents\obj\Debug\netstandard2.0\LearningDelegatesAndEvents.csproj.CoreCompileInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\LearningDelegatesAndEvents\obj\Debug\netstandard2.0\LearningDelegatesAndEvents.dll
+E:\zzz Old projects\Learning\AllInOne Learning\LearningDelegatesAndEvents\obj\Debug\netstandard2.0\LearningDelegatesAndEvents.pdb

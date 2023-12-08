@@ -16,3 +16,13 @@ F:\zzzzz learning\Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard
 F:\zzzzz learning\Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.AssemblyInfo.cs
 F:\zzzzz learning\Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.dll
 F:\zzzzz learning\Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\AsyncVsThread\bin\Debug\netstandard2.0\AsyncVsThread.deps.json
+E:\zzz Old projects\Learning\AllInOne Learning\AsyncVsThread\bin\Debug\netstandard2.0\AsyncVsThread.dll
+E:\zzz Old projects\Learning\AllInOne Learning\AsyncVsThread\bin\Debug\netstandard2.0\AsyncVsThread.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.csproj.AssemblyReference.cache
+E:\zzz Old projects\Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.GeneratedMSBuildEditorConfig.editorconfig
+E:\zzz Old projects\Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.AssemblyInfoInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.AssemblyInfo.cs
+E:\zzz Old projects\Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.csproj.CoreCompileInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.dll
+E:\zzz Old projects\Learning\AllInOne Learning\AsyncVsThread\obj\Debug\netstandard2.0\AsyncVsThread.pdb

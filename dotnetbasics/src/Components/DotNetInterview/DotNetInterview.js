@@ -6,10 +6,16 @@ import obj from '../../Assets/Interview/objects.PNG';
 import enumerable from '../../Assets/Interview/IenumerableIEnumerator.PNG';
 import tuple from '../../Assets/Interview/tuple.PNG';
 import struct from '../../Assets/Interview/struct.PNG';
+import mvcFilters from '../../Assets/Interview/mvcFilters.png';
+import outputCache from '../../Assets/Interview/outputCache.png';
+import customActionFilter from '../../Assets/Interview/customActionFilter.png';
 
 export default function DotNetInterview(){
     return (
         <div className='Interview'>
+            <h3>What does rest stands for in restful api?</h3>
+            <p>REST stands for <i>Representational State Transfer</i>. REST is a set of architectural constraints, not a protocol or a standard. API developers can implement REST in a variety of ways.</p>
+            <hr/>
             <h3>What security measures are to be considered in webapi and while logging in or while signing up?</h3>
             <hr/>
             <h3>Difference between TempData, ViewBag and ViewData?</h3>
@@ -68,6 +74,14 @@ export default function DotNetInterview(){
             <hr/>
             <h3>What is formatter pattern</h3>
             <hr/>
+            <h3>Is Lazy loading good?</h3>
+            <p>lazy loading is widely used in web applications to improve application performance. It helps developers reduce loading times, optimize data usage and improve the user experience. However, overusing lazy loading can affect the application performance negativel</p>
+            <p><b>Disadvantages</b></p>
+            <ul>
+                <li>If you have a web application such as an online store, you need to allow users to scroll up down quickly and navigate.Using lazy loading for such applications can slow down the scrolling experience since we need to wait until the data loads. This will decrease the application performance and cause user experience issues.</li>
+                <li>If you have not defined the image width and height properties for lazy loading images, noticeable delays can occur during the image rendering process. Since the resources are not downloading at the initial page load, the browser cannot know the content size to fit into the page layout</li>
+            </ul>
+            <hr/>
             <h3>Difference between IEnumerable and IQueryable ?</h3>
             <table style={{width:'60%',border:'1px solid black'}}>
                 <tr>
@@ -108,6 +122,15 @@ export default function DotNetInterview(){
             <h3>What is antiforgery token?</h3>
             <hr/>
             <h3>Why we need delete put patch , when we can perform alll operation with httppost?</h3>
+            <hr/>
+            <h3>Filters in MVC</h3>
+            <img src={mvcFilters} alt="mvcFilters" />
+            <p>Types of action filters</p>
+            <ul>
+                <li><b>OutputCache</b></li>
+                <img src={outputCache} alt="outputCache" />
+                <li><b>Custom action filters</b>: You can create a custom action filter in two ways, first, by implementing the IActionFilter interface and the FilterAttribute class. Second, by deriving the ActionFilterAttribute abstract class.</li>
+            </ul>
         </div>
     )
 }

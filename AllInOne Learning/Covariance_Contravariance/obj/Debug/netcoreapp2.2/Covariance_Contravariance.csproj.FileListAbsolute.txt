@@ -20,3 +20,16 @@ F:\zzzzz learning\Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug
 F:\zzzzz learning\Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug\netcoreapp2.2\Covariance_Contravariance.AssemblyInfo.cs
 F:\zzzzz learning\Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug\netcoreapp2.2\Covariance_Contravariance.dll
 F:\zzzzz learning\Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug\netcoreapp2.2\Covariance_Contravariance.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\Covariance_Contravariance\bin\Debug\netcoreapp2.2\Covariance_Contravariance.deps.json
+E:\zzz Old projects\Learning\AllInOne Learning\Covariance_Contravariance\bin\Debug\netcoreapp2.2\Covariance_Contravariance.runtimeconfig.json
+E:\zzz Old projects\Learning\AllInOne Learning\Covariance_Contravariance\bin\Debug\netcoreapp2.2\Covariance_Contravariance.runtimeconfig.dev.json
+E:\zzz Old projects\Learning\AllInOne Learning\Covariance_Contravariance\bin\Debug\netcoreapp2.2\Covariance_Contravariance.dll
+E:\zzz Old projects\Learning\AllInOne Learning\Covariance_Contravariance\bin\Debug\netcoreapp2.2\Covariance_Contravariance.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug\netcoreapp2.2\Covariance_Contravariance.csproj.AssemblyReference.cache
+E:\zzz Old projects\Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug\netcoreapp2.2\Covariance_Contravariance.GeneratedMSBuildEditorConfig.editorconfig
+E:\zzz Old projects\Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug\netcoreapp2.2\Covariance_Contravariance.AssemblyInfoInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug\netcoreapp2.2\Covariance_Contravariance.AssemblyInfo.cs
+E:\zzz Old projects\Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug\netcoreapp2.2\Covariance_Contravariance.csproj.CoreCompileInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug\netcoreapp2.2\Covariance_Contravariance.dll
+E:\zzz Old projects\Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug\netcoreapp2.2\Covariance_Contravariance.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\Covariance_Contravariance\obj\Debug\netcoreapp2.2\Covariance_Contravariance.genruntimeconfig.cache

@@ -20,3 +20,16 @@ F:\zzzzz learning\Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netco
 F:\zzzzz learning\Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.AssemblyInfo.cs
 F:\zzzzz learning\Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.dll
 F:\zzzzz learning\Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\Interlocked_locking\bin\Debug\netcoreapp2.2\Interlocked_locking.deps.json
+E:\zzz Old projects\Learning\AllInOne Learning\Interlocked_locking\bin\Debug\netcoreapp2.2\Interlocked_locking.runtimeconfig.json
+E:\zzz Old projects\Learning\AllInOne Learning\Interlocked_locking\bin\Debug\netcoreapp2.2\Interlocked_locking.runtimeconfig.dev.json
+E:\zzz Old projects\Learning\AllInOne Learning\Interlocked_locking\bin\Debug\netcoreapp2.2\Interlocked_locking.dll
+E:\zzz Old projects\Learning\AllInOne Learning\Interlocked_locking\bin\Debug\netcoreapp2.2\Interlocked_locking.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.csproj.AssemblyReference.cache
+E:\zzz Old projects\Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.GeneratedMSBuildEditorConfig.editorconfig
+E:\zzz Old projects\Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.AssemblyInfoInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.AssemblyInfo.cs
+E:\zzz Old projects\Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.csproj.CoreCompileInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.dll
+E:\zzz Old projects\Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\Interlocked_locking\obj\Debug\netcoreapp2.2\Interlocked_locking.genruntimeconfig.cache

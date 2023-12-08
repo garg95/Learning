@@ -5,6 +5,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 
 namespace AllInOne_Learning.Controllers
 {
@@ -13,13 +14,20 @@ namespace AllInOne_Learning.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
+        private readonly IConfiguration _configuration;
+
+        public ValuesController(IConfiguration configuration)
+        {
+            _configuration = configuration;
+        }
         // GET api/values
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
             //Task.Delay(5000);
+            var val = _configuration.GetValue<string>("Cloudinary:ApiKey");
             Thread.Sleep(5000);
-            return new string[] { "value1", "value2" };
+            return new string[] { "value1", "value2",_configuration.GetValue<string>("Cloudinary:ApiKey") };
         }
 
         // GET api/values/5

@@ -6,9 +6,11 @@ import BackEndHit from './BackendHit/BackEndHit';
 import LifeCycle from './LifeCycle/LifeCycle';
 import Keywords from './Keywords/Keywords';
 import Webpack from './Webpack/Webpack_Main';
+import CreateReactApp from './CreateReactApp/CreateReactApp'
 class ReactBasics extends Component {
     state = {
         topics: [
+            {Name:'Create App', Path:'/reactbasics/createreactapp'},
             { Name: 'Life Cycle', Path: '/reactbasics/lifecycle' },
             { Name: 'Keywords', Path: '/reactbasics/keywords' },
             { Name: 'Backend Hit', Path: '/reactbasics/backendhit' },
@@ -21,6 +23,7 @@ class ReactBasics extends Component {
                 <SideBarIndex topics={this.state.topics} />
                 <div style={{marginLeft:'16%'}}>
                     <Switch>
+                        <Route path='/reactbasics/createreactapp' component={CreateReactApp} />
                         <Route path='/reactbasics/lifecycle' component={LifeCycle} />
                         <Route path='/reactbasics/backendhit' component={BackEndHit} />
                         <Route path='/reactbasics/keywords' component={Keywords} />

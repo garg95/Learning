@@ -11,9 +11,10 @@ export default class  Promi extends Component{
         var promise=new Promise((resolve,reject)=>{
             let val=true;
             let counter=0;
-            axios.get('https://localhost:44310/api/values').then(response=>this.setState({value:response.data}));
+            axios.get('http://localhost:51863/api/values').then(response=>this.setState({value:response.data}));
             while(val)
             {
+                console.log("Entered while")
                 setTimeout(()=>{
                     if(this.state.value.length>0)
                     {

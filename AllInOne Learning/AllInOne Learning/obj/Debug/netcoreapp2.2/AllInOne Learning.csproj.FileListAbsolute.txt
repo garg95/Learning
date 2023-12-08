@@ -73,3 +73,45 @@ F:\zzzzz learning\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcore
 F:\zzzzz learning\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.dll
 F:\zzzzz learning\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.pdb
 F:\zzzzz learning\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\Razor\Views\Web\Index.g.cshtml.cs
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\appsettings.json
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\AllInOne Learning.deps.json
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\AllInOne Learning.runtimeconfig.json
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\AllInOne Learning.runtimeconfig.dev.json
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\AllInOne Learning.dll
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\AllInOne Learning.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\AllInOne Learning.Views.dll
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\AllInOne Learning.Views.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\AsyncVsThread.dll
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\CloudinaryImageUpload.dll
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\Keywords.dll
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\LazyLoading.dll
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\LearningDelegatesAndEvents.dll
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\RepositoryPattern.dll
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\SingletonVsStatic.dll
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\AsyncVsThread.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\CloudinaryImageUpload.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\Keywords.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\LazyLoading.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\LearningDelegatesAndEvents.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\RepositoryPattern.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\bin\Debug\netcoreapp2.2\SingletonVsStatic.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.csproj.AssemblyReference.cache
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.GeneratedMSBuildEditorConfig.editorconfig
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.AssemblyInfoInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.AssemblyInfo.cs
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.csproj.CoreCompileInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.RazorAssemblyInfo.cache
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.RazorAssemblyInfo.cs
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.TagHelpers.input.cache
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.TagHelpers.output.cache
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.RazorCoreGenerate.cache
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\Razor\Views\GoogleAPI\Index.cshtml.g.cs
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\Razor\Views\Web\Index.cshtml.g.cs
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.RazorTargetAssemblyInfo.cache
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.RazorTargetAssemblyInfo.cs
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.Views.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.csproj.CopyComplete
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.dll
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\AllInOne Learning\obj\Debug\netcoreapp2.2\AllInOne Learning.genruntimeconfig.cache

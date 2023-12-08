@@ -16,3 +16,13 @@ F:\zzzzz learning\Learning\AllInOne Learning\LazyLoading\obj\Debug\netstandard2.
 F:\zzzzz learning\Learning\AllInOne Learning\LazyLoading\obj\Debug\netstandard2.0\LazyLoading.AssemblyInfo.cs
 F:\zzzzz learning\Learning\AllInOne Learning\LazyLoading\obj\Debug\netstandard2.0\LazyLoading.dll
 F:\zzzzz learning\Learning\AllInOne Learning\LazyLoading\obj\Debug\netstandard2.0\LazyLoading.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\LazyLoading\bin\Debug\netstandard2.0\LazyLoading.deps.json
+E:\zzz Old projects\Learning\AllInOne Learning\LazyLoading\bin\Debug\netstandard2.0\LazyLoading.dll
+E:\zzz Old projects\Learning\AllInOne Learning\LazyLoading\bin\Debug\netstandard2.0\LazyLoading.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\LazyLoading\obj\Debug\netstandard2.0\LazyLoading.csproj.AssemblyReference.cache
+E:\zzz Old projects\Learning\AllInOne Learning\LazyLoading\obj\Debug\netstandard2.0\LazyLoading.GeneratedMSBuildEditorConfig.editorconfig
+E:\zzz Old projects\Learning\AllInOne Learning\LazyLoading\obj\Debug\netstandard2.0\LazyLoading.AssemblyInfoInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\LazyLoading\obj\Debug\netstandard2.0\LazyLoading.AssemblyInfo.cs
+E:\zzz Old projects\Learning\AllInOne Learning\LazyLoading\obj\Debug\netstandard2.0\LazyLoading.csproj.CoreCompileInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\LazyLoading\obj\Debug\netstandard2.0\LazyLoading.dll
+E:\zzz Old projects\Learning\AllInOne Learning\LazyLoading\obj\Debug\netstandard2.0\LazyLoading.pdb

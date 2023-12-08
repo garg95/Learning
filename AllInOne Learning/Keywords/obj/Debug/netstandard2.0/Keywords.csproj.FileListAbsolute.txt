@@ -16,3 +16,13 @@ F:\zzzzz learning\Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\K
 F:\zzzzz learning\Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.AssemblyInfo.cs
 F:\zzzzz learning\Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.dll
 F:\zzzzz learning\Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\Keywords\bin\Debug\netstandard2.0\Keywords.deps.json
+E:\zzz Old projects\Learning\AllInOne Learning\Keywords\bin\Debug\netstandard2.0\Keywords.dll
+E:\zzz Old projects\Learning\AllInOne Learning\Keywords\bin\Debug\netstandard2.0\Keywords.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.csproj.AssemblyReference.cache
+E:\zzz Old projects\Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.GeneratedMSBuildEditorConfig.editorconfig
+E:\zzz Old projects\Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.AssemblyInfoInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.AssemblyInfo.cs
+E:\zzz Old projects\Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.csproj.CoreCompileInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.dll
+E:\zzz Old projects\Learning\AllInOne Learning\Keywords\obj\Debug\netstandard2.0\Keywords.pdb

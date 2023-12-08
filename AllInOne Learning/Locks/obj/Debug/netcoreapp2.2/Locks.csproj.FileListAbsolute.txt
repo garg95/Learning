@@ -20,3 +20,16 @@ F:\zzzzz learning\Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks
 F:\zzzzz learning\Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.AssemblyInfo.cs
 F:\zzzzz learning\Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.dll
 F:\zzzzz learning\Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\Locks\bin\Debug\netcoreapp2.2\Locks.deps.json
+E:\zzz Old projects\Learning\AllInOne Learning\Locks\bin\Debug\netcoreapp2.2\Locks.runtimeconfig.json
+E:\zzz Old projects\Learning\AllInOne Learning\Locks\bin\Debug\netcoreapp2.2\Locks.runtimeconfig.dev.json
+E:\zzz Old projects\Learning\AllInOne Learning\Locks\bin\Debug\netcoreapp2.2\Locks.dll
+E:\zzz Old projects\Learning\AllInOne Learning\Locks\bin\Debug\netcoreapp2.2\Locks.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.csproj.AssemblyReference.cache
+E:\zzz Old projects\Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.GeneratedMSBuildEditorConfig.editorconfig
+E:\zzz Old projects\Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.AssemblyInfoInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.AssemblyInfo.cs
+E:\zzz Old projects\Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.csproj.CoreCompileInputs.cache
+E:\zzz Old projects\Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.dll
+E:\zzz Old projects\Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.pdb
+E:\zzz Old projects\Learning\AllInOne Learning\Locks\obj\Debug\netcoreapp2.2\Locks.genruntimeconfig.cache

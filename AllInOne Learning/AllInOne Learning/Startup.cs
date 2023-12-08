@@ -61,6 +61,8 @@ namespace AllInOne_Learning
             services.AddSession(options => {
                 options.IdleTimeout = TimeSpan.FromMinutes(5);
             });
+            services.AddMvc();
+
             //this basically simplifies the exception that occurred while creating token in GenerateJWTToken class
             //Error occurred due to small length of the secret key.
             IdentityModelEventSource.ShowPII = true; 
@@ -84,10 +86,14 @@ namespace AllInOne_Learning
             }
             
             app.UseAuthentication();
+            app.UseRouting();
             app.UseCors("MyPolicy");
             app.UseHttpsRedirection();
             app.UseSession();
-            app.UseMvc();
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllerRoute("default", "{controller=Values}/{action=Get}");
+            });
             //container.Verify();  //not working
             //app.UseEndpoints
         }
